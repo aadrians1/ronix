@@ -1,0 +1,66 @@
+REM GENRE Pop
+REM DATE 1973
+REM DISCID A208520C
+REM COMMENT "ExactAudioCopy v0.99pb5"
+PERFORMER "ABBA"
+TITLE "Ring Ring"
+FILE "ABBA - 1973 - Ring Ring.ape" WAVE
+  TRACK 01 AUDIO
+    TITLE "Ring Ring"
+    PERFORMER "ABBA"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:33
+  TRACK 02 AUDIO
+    TITLE "Another Town, Another Train"
+    PERFORMER "ABBA"
+    INDEX 00 03:03:42
+    INDEX 01 03:04:45
+  TRACK 03 AUDIO
+    TITLE "Disillusion"
+    PERFORMER "ABBA"
+    INDEX 00 06:14:70
+    INDEX 01 06:16:33
+  TRACK 04 AUDIO
+    TITLE "People Need Love"
+    PERFORMER "ABBA"
+    INDEX 00 09:21:50
+    INDEX 01 09:24:08
+  TRACK 05 AUDIO
+    TITLE "I Saw It In The Mirror"
+    PERFORMER "ABBA"
+    INDEX 00 12:07:55
+    INDEX 01 12:08:20
+  TRACK 06 AUDIO
+    TITLE "Nina, Pretty Ballerina"
+    PERFORMER "ABBA"
+    INDEX 01 14:42:08
+  TRACK 07 AUDIO
+    TITLE "Love Isn't Easy (But It Sure Is Hard Enough)"
+    PERFORMER "ABBA"
+    INDEX 00 17:35:01
+    INDEX 01 17:35:45
+  TRACK 08 AUDIO
+    TITLE "Me And Bonny And Bobby's Brother"
+    PERFORMER "ABBA"
+    INDEX 00 20:28:01
+    INDEX 01 20:28:58
+  TRACK 09 AUDIO
+    TITLE "He Is Your Brother"
+    PERFORMER "ABBA"
+    INDEX 00 23:18:08
+    INDEX 01 23:18:33
+  TRACK 10 AUDIO
+    TITLE "She's My Kind Of Girl"
+    PERFORMER "ABBA"
+    INDEX 00 26:36:23
+    INDEX 01 26:37:20
+  TRACK 11 AUDIO
+    TITLE "I Am Just A Girl"
+    PERFORMER "ABBA"
+    INDEX 00 29:16:64
+    INDEX 01 29:18:33
+  TRACK 12 AUDIO
+    TITLE "Rock'n'Roll Band"
+    PERFORMER "ABBA"
+    INDEX 00 32:21:26
+    INDEX 01 32:22:70
