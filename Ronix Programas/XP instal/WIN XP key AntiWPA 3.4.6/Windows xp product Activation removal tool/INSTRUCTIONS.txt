@@ -1,0 +1,19 @@
+How to use the XP Activation Removal Tool:-
+
+Click WPA_Kill.exe to launch. Windows will report that some files have been replaced 
+by unrecogised ones and prompt you to restore the Windows files. 
+Don't! Leave the unrecognised ones on your PC. Reboot and your done. 
+
+All Windows functionality will continue as normal including 
+Windows updates.
+
+If you install SP2 you may have to apply the patch again.
+hsi si the latest addition and has been tested on SP1 + sP2, and all seems to be
+well. The older tools are in the Other Removal Tools Folder, as well as keygens,
+key viewers and other useful utilities.
+
+Recommended WPA-Kill. If you for some reason this does not work, then next to try is 
+reset 5.02 in the other tools folder.
+
+Regards
+Stuart 
