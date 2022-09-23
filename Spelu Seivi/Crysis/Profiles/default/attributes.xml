@@ -1,0 +1,21 @@
+<Attributes Version="8">
+ <Attr name="Option.fsaa_mode" value=""/>
+ <Attr name="Option.g_difficultyLevel" value="1"/>
+ <Attr name="OptionCfg.cl_sensitivity" value="35"/>
+ <Attr name="OptionCfg.g_quickGame_map" value=""/>
+ <Attr name="OptionCfg.hud_crosshair" value="7"/>
+ <Attr name="OptionCfg.sys_spec_GameEffects" value="3"/>
+ <Attr name="OptionCfg.sys_spec_ObjectDetail" value="3"/>
+ <Attr name="OptionCfg.sys_spec_Particles" value="3"/>
+ <Attr name="OptionCfg.sys_spec_Physics" value="3"/>
+ <Attr name="OptionCfg.sys_spec_PostProcessing" value="3"/>
+ <Attr name="OptionCfg.sys_spec_Shading" value="3"/>
+ <Attr name="OptionCfg.sys_spec_Shadows" value="3"/>
+ <Attr name="OptionCfg.sys_spec_Sound" value="3"/>
+ <Attr name="OptionCfg.sys_spec_Texture" value="3"/>
+ <Attr name="OptionCfg.sys_spec_VolumetricEffects" value="3"/>
+ <Attr name="OptionCfg.sys_spec_Water" value="3"/>
+ <Attr name="Singleplayer.LastSavedGame" value="119_Reckoning_01h_07m_05s.CRYSISJMSF"/>
+ <Attr name="Singleplayer.LastSelectedDifficulty" value="1"/>
+ <Attr name="Singleplayer.SaveRunningID" value="120"/>
+</Attributes>
