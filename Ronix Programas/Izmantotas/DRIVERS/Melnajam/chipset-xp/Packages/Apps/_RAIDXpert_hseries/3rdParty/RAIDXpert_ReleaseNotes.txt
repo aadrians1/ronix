@@ -1,0 +1,71 @@
+
+--------------------------------------------------------------------
+RELEASE NOTES FOR AMD SATA RAID RAIDXpert Windows Utility
+--------------------------------------------------------------------
+
+
+INTRODUCTION
+
+This document provides information about the current and previous updates to the Windows Utility package.
+
+History:
+Version: 3.3.1540.12
+- Fixed: Use 4K drive do rebuild and run R/W/C,system is hang.
+
+Version: 3.3.1540.11
+- Fixed: 4K HDD can select different sector size by RAIDXpert.
+- Fixed: Create JBOD(x4),sector size is wrong.
+- Fixed: JBOD has created by extent and no "sector size" parameter. 
+
+Version: 3.3.1540.10
+- Add sector size item while create LD. 
+- Add sector size on PD info. 
+- Add sector size / stripe size on LD info. 
+- AMD HP need RAIDXpert silent mode support repair Function.
+- Fixed: Can`t create JBOD in the raiudxpert.
+
+Version: 3.3.1540.9 
+- RAIDXpert shows unknown event on both RAID and AHCI 
+
+Version: 3.3.1540.8 
+- Can`t create JBOD in the raiudxpert. 
+- When the array status is critical, buzzer will sound. But the array
+		delect, buzzer sounds did not stop. 
+- Can link to website,but Raidxpert IP address is 127.0.0.1. 
+- After uninstallating RAIDXpert, still can see the data in /opt/AMD/RAIDXpert.
+
+Version 3.3.1540.7
+- Fix buzzer doesn't sound when LD is critical or offline.
+- Sync first setting of init rate in RAIDXpert to driver.
+
+Version: 3.3.1540.3
+- Initial release.
+
+Known Issues In This Release
+===============================
+None.
+
+
+Software Usage
+===============
+To install/uninstall RAIDXpert utility in silent mode without answer file:
+	Install : RAIDXpert.exe /s
+	Unstall : RAIDXpert.exe /x /s or RAIDXpert.exe /s /removeonly 
+
+
+Copyright © Advanced Micro Devices, Inc. 2010.  All rights reserved.
+LIMITATION OF LIABILITY:  THE MATERIALS ARE PROVIDED AS IS WITHOUT ANY EXPRESS OR
+IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, 
+NONINFRINGEMENT OF THIRD-PARTY INTELLECTUAL PROPERTY, OR FITNESS FOR ANY PARTICULAR
+PURPOSE. IN NO EVENT SHALL AMD OR ITS SUPPLIERS BE LIABLE FOR ANY DAMAGES 
+WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, BUSINESS
+INTERRUPTION, LOSS OF INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE
+THE MATERIALS, EVEN IF AMD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+BECAUSE SOME JURISDICTIONS PROHIBIT THE EXCLUSION OR LIMITATION OF LIABILITY FOR
+CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+AMD does not assume any responsibility for any errors which may appear in the 
+Materials nor any responsibility to support or update the Materials.  AMD
+retains the right to make changes to its test specifications at any time, 
+without notice.  NO SUPPORT OBLIGATION: AMD is not obligated to furnish, support, 
+or make any further information, software, technical information, know-how, or 
+show-how available to you.
