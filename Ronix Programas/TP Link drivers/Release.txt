@@ -1,0 +1,70 @@
+Thank you for your purchase of TP-LINK products! The releases of this disk is 
+shown below:
+================================================================================
+
+P/N: CD132A10	
+Version: 1.7		
+Date: 2012-05-03
+
+- Added TL-WN725N(UN) 1.0 driver files, installation program and user guide.
+
+P/N: CD132A7	
+Version: 1.6		
+Date: 2012-04-17
+
+- Updated EasySetupAssistant for TL-WR841N/TL-WR841ND.
+
+--------------------------------------------------------------------------------
+
+P/N: CD132A6	
+Version: 1.5		
+Date: 2012-04-09
+
+- Added TL-WN823N driver files, installation program and user guide.
+
+--------------------------------------------------------------------------------
+
+P/N: CD132A5	
+Version: 1.4		
+Date: 2012-02-27
+
+- Updated EasySetupAssistant for TL-WR841N/TL-WR841ND.
+
+--------------------------------------------------------------------------------
+
+P/N: CD132A4
+Version: 1.3		
+Date: 2012-02-14
+
+- Updated EasySetupAssistant for TL-WR842ND.
+
+--------------------------------------------------------------------------------
+
+P/N: CD132A3	
+Version: 1.2		
+Date: 2012-01-10
+
+- Updated UPS Setup for TL-WR842ND(UN)1.0.
+- Updated User Guide for TL-WR842ND(UN)1.0.
+
+--------------------------------------------------------------------------------
+
+P/N: CD132A2	
+Version: 1.1		
+Date: 2011-12-22
+
+- Updated User Guide for TL-WR841N_841ND.
+
+--------------------------------------------------------------------------------
+
+P/N: CD132A1	
+Version: 1.0		
+Date: 2011-10-21
+
+- First release.
+
+================================================================================
+New versions of the Driver or User Guide may be released. Please pay attention
+to our website for the new versions.
+
+Website: http://www.tp-link.com
