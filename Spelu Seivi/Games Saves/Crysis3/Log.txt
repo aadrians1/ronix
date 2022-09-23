@@ -1,0 +1,4175 @@
+Windows 7 64 bit (build 6.1.7600)
+System language: Russian
+Windows Directory: "C:\Windows"
+Prerequisites...
+* Installation of KB940105 hotfix required: no! (either not needed or already installed)
+Local time is 15:53:26 11/18/15, system running for 404 minutes
+4078MB physical memory installed, 2378MB available, 4095MB virtual memory installed, 41 percent of memory in use
+PageFile usage: 150MB, Working Set: 122MB, Peak PageFile usage: 186MB,
+Current display mode is 1920x1080x32, (Unknown graphics card)
+IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+--------------------------------------------------------------------------------
+Stream Engine Initialization
+GameName: Crysis 3
+BuildTime: Mar 19 2013 22:12:26
+Font initialization
+Physics initialization
+Sound initialization
+<Sound> Initializing AudioDevice now!
+<Sound> Initialize FMOD with dynamic memory callbacks
+<Sound> Starting to initialize Windows Audio Session API output! 
+<Sound> Playback drivers found: 2
+<Sound> Available playback drivers:
+	1.	Realtek HDMI Output (ATI HDMI Audio)
+	2.	Realtek Digital Output (Realtek High Definition Audio)
+<Sound> FmodEx-AudioDevice: Now running on driver: Realtek HDMI Output (ATI HDMI Audio)
+<Sound> No record drivers found!
+<Sound> Record config is set to autodetect using record driver 0
+<Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<Sound> Initializing FMOD-EX now!
+<Sound> Initialized FMOD-EX
+<Sound> Using FMOD version: 00044211 and internal 00044211!
+<Sound> Initializing SoundSystem now!
+Renderer initialization
+Logging video adapters:
+- AMD Radeon HD 6670 (vendor = 0x1002, device = 0x6758)
+  - Adapter index: 0
+  - Dedicated video memory: 1012 MB
+  - Feature level: DX11 (SM 5.0)
+  - Displays connected: yes
+  - Suitable rendering device: yes
+Network initialization
+[net] Socket IO management: External [LobbyIDAddr], Internal [iocp]
+network hostname: Ronix-PC
+  ip:77.38.135.7
+[Network Version]: RELEASE PURE CLIENT
+Lobby initialization
+MovieSystem initialization
+Console initialization
+Time initialization
+Input initialization
+AI initialization
+Initializing Animation System
+Initializing 3D Engine
+Script System Initialization
+Entity system initialization
+LiveCreate initialization
+Initializing AI System
+Initializing additional systems
+[GameProfiles]: Successfully activated profile 'default' for user 'Ronix'
+username Ronix signedIn 1 userIndex -1
+ActivateProfile profileName default
+Running machine spec auto detect (32 bit)...
+- Windows 7 64 bit (build 6.1.7600)
+- System memory
+--- 4077 MB
+- AMD A6-3500 APU with Radeon(tm) HD Graphics
+--- Number of available cores: 3 (out of 3)
+--- Benchmark
+----- Best time after 3 runs: 337.17 ms
+----- Time multiplier: 0.63
+----- Final time: 212.42 ms
+--- Rating: CPU class 2
+- AMD Radeon HD 6670 (vendor = 0x1002, device = 0x6758)
+--- Dedicated video memory: 1012 MB
+--- Feature level: DX11 (SM 5.0)
+--- Rating: GPU class 2
+- Final rating: Machine class 2
+[Game Version]: RELEASE PURE CLIENT
+============================ Loading level Jailbreak ============================
+Initializing default materials...
+Registering TPS Extensions...
+Initializing default materials...
+Registering TPS Extensions...
+Initializing default materials...
+Registering TPS Extensions...
+Initializing default materials...
+Registering TPS Extensions...
+Initializing default materials...
+Registering TPS Extensions...
+System Shutdown
+Windows 7 64 bit (build 6.1.7600)
+System language: Russian
+Windows Directory: "C:\Windows"
+Prerequisites...
+* Installation of KB940105 hotfix required: no! (either not needed or already installed)
+Local time is 20:28:39 11/19/15, system running for 7 minutes
+4078MB physical memory installed, 2837MB available, 4095MB virtual memory installed, 30 percent of memory in use
+PageFile usage: 134MB, Working Set: 122MB, Peak PageFile usage: 170MB,
+Current display mode is 1920x1080x32, (Unknown graphics card)
+IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+--------------------------------------------------------------------------------
+Stream Engine Initialization
+GameName: Crysis 3
+BuildTime: Mar 19 2013 22:12:26
+Font initialization
+Physics initialization
+Sound initialization
+<Sound> Initializing AudioDevice now!
+<Sound> Initialize FMOD with dynamic memory callbacks
+<Sound> Starting to initialize Windows Audio Session API output! 
+<Sound> Playback drivers found: 2
+<Sound> Available playback drivers:
+	1.	Realtek HDMI Output (ATI HDMI Audio)
+	2.	Realtek Digital Output (Realtek High Definition Audio)
+<Sound> FmodEx-AudioDevice: Now running on driver: Realtek HDMI Output (ATI HDMI Audio)
+<Sound> No record drivers found!
+<Sound> Record config is set to autodetect using record driver 0
+<Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<Sound> Initializing FMOD-EX now!
+<Sound> Initialized FMOD-EX
+<Sound> Using FMOD version: 00044211 and internal 00044211!
+<Sound> Initializing SoundSystem now!
+Renderer initialization
+Logging video adapters:
+- AMD Radeon HD 6670 (vendor = 0x1002, device = 0x6758)
+  - Adapter index: 0
+  - Dedicated video memory: 1012 MB
+  - Feature level: DX11 (SM 5.0)
+  - Displays connected: yes
+  - Suitable rendering device: yes
+Network initialization
+[net] Socket IO management: External [LobbyIDAddr], Internal [iocp]
+network hostname: Ronix-PC
+  ip:192.168.0.101
+[Network Version]: RELEASE PURE CLIENT
+Lobby initialization
+MovieSystem initialization
+Console initialization
+Time initialization
+Input initialization
+AI initialization
+Initializing Animation System
+Initializing 3D Engine
+Script System Initialization
+Entity system initialization
+LiveCreate initialization
+Initializing AI System
+Initializing additional systems
+[GameProfiles]: Successfully activated profile 'default' for user 'Ronix'
+username Ronix signedIn 1 userIndex -1
+ActivateProfile profileName default
+[Game Version]: RELEASE PURE CLIENT
+Initializing default materials...
+Registering TPS Extensions...
+============================ Loading level Fields ============================
+Initializing default materials...
+Registering TPS Extensions...
+System Shutdown
+Windows 7 64 bit (build 6.1.7600)
+System language: Russian
+Windows Directory: "C:\Windows"
+Prerequisites...
+* Installation of KB940105 hotfix required: no! (either not needed or already installed)
+Local time is 16:11:57 11/20/15, system running for 12 minutes
+4078MB physical memory installed, 2813MB available, 4095MB virtual memory installed, 30 percent of memory in use
+PageFile usage: 134MB, Working Set: 122MB, Peak PageFile usage: 170MB,
+Current display mode is 1920x1080x32, (Unknown graphics card)
+IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+--------------------------------------------------------------------------------
+Stream Engine Initialization
+GameName: Crysis 3
+BuildTime: Mar 19 2013 22:12:26
+Font initialization
+Physics initialization
+Sound initialization
+<Sound> Initializing AudioDevice now!
+<Sound> Initialize FMOD with dynamic memory callbacks
+<Sound> Starting to initialize Windows Audio Session API output! 
+<Sound> Playback drivers found: 2
+<Sound> Available playback drivers:
+	1.	Realtek HDMI Output (ATI HDMI Audio)
+	2.	Realtek Digital Output (Realtek High Definition Audio)
+<Sound> FmodEx-AudioDevice: Now running on driver: Realtek HDMI Output (ATI HDMI Audio)
+<Sound> No record drivers found!
+<Sound> Record config is set to autodetect using record driver 0
+<Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<Sound> Initializing FMOD-EX now!
+<Sound> Initialized FMOD-EX
+<Sound> Using FMOD version: 00044211 and internal 00044211!
+<Sound> Initializing SoundSystem now!
+Renderer initialization
+Logging video adapters:
+- AMD Radeon HD 6670 (vendor = 0x1002, device = 0x6758)
+  - Adapter index: 0
+  - Dedicated video memory: 1012 MB
+  - Feature level: DX11 (SM 5.0)
+  - Displays connected: yes
+  - Suitable rendering device: yes
+Network initialization
+[net] Socket IO management: External [LobbyIDAddr], Internal [iocp]
+network hostname: Ronix-PC
+  ip:192.168.0.101
+[Network Version]: RELEASE PURE CLIENT
+Lobby initialization
+MovieSystem initialization
+Console initialization
+Time initialization
+Input initialization
+AI initialization
+Initializing Animation System
+Initializing 3D Engine
+Script System Initialization
+Entity system initialization
+LiveCreate initialization
+Initializing AI System
+Initializing additional systems
+[GameProfiles]: Successfully activated profile 'default' for user 'Ronix'
+username Ronix signedIn 1 userIndex -1
+ActivateProfile profileName default
+[Game Version]: RELEASE PURE CLIENT
+Initializing default materials...
+Registering TPS Extensions...
+System Shutdown
+Windows 7 64 bit (build 6.1.7600)
+System language: Russian
+Windows Directory: "C:\Windows"
+Prerequisites...
+* Installation of KB940105 hotfix required: no! (either not needed or already installed)
+Local time is 20:23:10 11/23/15, system running for 72 minutes
+4078MB physical memory installed, 2906MB available, 4095MB virtual memory installed, 28 percent of memory in use
+PageFile usage: 134MB, Working Set: 122MB, Peak PageFile usage: 170MB,
+Current display mode is 1920x1080x32, (Unknown graphics card)
+IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+--------------------------------------------------------------------------------
+Stream Engine Initialization
+GameName: Crysis 3
+BuildTime: Mar 19 2013 22:12:26
+Font initialization
+Physics initialization
+Sound initialization
+<Sound> Initializing AudioDevice now!
+<Sound> Initialize FMOD with dynamic memory callbacks
+<Sound> Starting to initialize Windows Audio Session API output! 
+<Sound> Playback drivers found: 2
+<Sound> Available playback drivers:
+	1.	Realtek HDMI Output (ATI HDMI Audio)
+	2.	Realtek Digital Output (Realtek High Definition Audio)
+<Sound> FmodEx-AudioDevice: Now running on driver: Realtek HDMI Output (ATI HDMI Audio)
+<Sound> No record drivers found!
+<Sound> Record config is set to autodetect using record driver 0
+<Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<Sound> Initializing FMOD-EX now!
+<Sound> Initialized FMOD-EX
+<Sound> Using FMOD version: 00044211 and internal 00044211!
+<Sound> Initializing SoundSystem now!
+Renderer initialization
+Logging video adapters:
+- AMD Radeon HD 6670 (vendor = 0x1002, device = 0x6758)
+  - Adapter index: 0
+  - Dedicated video memory: 1012 MB
+  - Feature level: DX11 (SM 5.0)
+  - Displays connected: yes
+  - Suitable rendering device: yes
+Network initialization
+[net] Socket IO management: External [LobbyIDAddr], Internal [iocp]
+network hostname: Ronix-PC
+  ip:192.168.0.100
+[Network Version]: RELEASE PURE CLIENT
+Lobby initialization
+MovieSystem initialization
+Console initialization
+Time initialization
+Input initialization
+AI initialization
+Initializing Animation System
+Initializing 3D Engine
+Script System Initialization
+Entity system initialization
+LiveCreate initialization
+Initializing AI System
+Initializing additional systems
+[GameProfiles]: Successfully activated profile 'default' for user 'Ronix'
+username Ronix signedIn 1 userIndex -1
+ActivateProfile profileName default
+[Game Version]: RELEASE PURE CLIENT
+Initializing default materials...
+Registering TPS Extensions...
+[flow] Sound:Dialog - Can't play sound '0'!
+[flow] Sound:Dialog - Can't play sound '0'!
+[flow] Sound:Dialog - Can't play sound '0'!
+[flow] Sound:Dialog - Can't play sound '0'!
+[flow] Sound:Dialog - Can't play sound '0'!
+[flow] Sound:Dialog - Can't play sound '0'!
+[flow] Sound:Dialog - Can't play sound '0'!
+============================ Loading level canyon ============================
+Initializing default materials...
+Registering TPS Extensions...
+System Shutdown
+Windows 7 64 bit (build 6.1.7600)
+System language: Russian
+Windows Directory: "C:\Windows"
+Prerequisites...
+* Installation of KB940105 hotfix required: no! (either not needed or already installed)
+Local time is 19:52:23 11/24/15, system running for 3 minutes
+4078MB physical memory installed, 2928MB available, 4095MB virtual memory installed, 28 percent of memory in use
+PageFile usage: 134MB, Working Set: 122MB, Peak PageFile usage: 170MB,
+Current display mode is 1920x1080x32, (Unknown graphics card)
+IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+--------------------------------------------------------------------------------
+Stream Engine Initialization
+GameName: Crysis 3
+BuildTime: Mar 19 2013 22:12:26
+Font initialization
+Physics initialization
+Sound initialization
+<Sound> Initializing AudioDevice now!
+<Sound> Initialize FMOD with dynamic memory callbacks
+<Sound> Starting to initialize Windows Audio Session API output! 
+<Sound> Playback drivers found: 2
+<Sound> Available playback drivers:
+	1.	Realtek HDMI Output (ATI HDMI Audio)
+	2.	Realtek Digital Output (Realtek High Definition Audio)
+<Sound> FmodEx-AudioDevice: Now running on driver: Realtek HDMI Output (ATI HDMI Audio)
+<Sound> No record drivers found!
+<Sound> Record config is set to autodetect using record driver 0
+<Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<Sound> Initializing FMOD-EX now!
+<Sound> Initialized FMOD-EX
+<Sound> Using FMOD version: 00044211 and internal 00044211!
+<Sound> Initializing SoundSystem now!
+Renderer initialization
+Logging video adapters:
+- AMD Radeon HD 6670 (vendor = 0x1002, device = 0x6758)
+  - Adapter index: 0
+  - Dedicated video memory: 1012 MB
+  - Feature level: DX11 (SM 5.0)
+  - Displays connected: yes
+  - Suitable rendering device: yes
+Network initialization
+[net] Socket IO management: External [LobbyIDAddr], Internal [iocp]
+network hostname: Ronix-PC
+  ip:192.168.0.101
+[Network Version]: RELEASE PURE CLIENT
+Lobby initialization
+MovieSystem initialization
+Console initialization
+Time initialization
+Input initialization
+AI initialization
+Initializing Animation System
+Initializing 3D Engine
+Script System Initialization
+Entity system initialization
+LiveCreate initialization
+Initializing AI System
+Initializing additional systems
+[GameProfiles]: Successfully activated profile 'default' for user 'Ronix'
+username Ronix signedIn 1 userIndex -1
+ActivateProfile profileName default
+[Game Version]: RELEASE PURE CLIENT
+Initializing default materials...
+Registering TPS Extensions...
+============================ Loading level Swamp ============================
+Initializing default materials...
+Registering TPS Extensions...
+System Shutdown
+Windows 7 64 bit (build 6.1.7600)
+System language: Russian
+Windows Directory: "C:\Windows"
+Prerequisites...
+* Installation of KB940105 hotfix required: no! (either not needed or already installed)
+Local time is 19:16:22 11/25/15, system running for 3 minutes
+4078MB physical memory installed, 2914MB available, 4095MB virtual memory installed, 28 percent of memory in use
+PageFile usage: 134MB, Working Set: 122MB, Peak PageFile usage: 170MB,
+Current display mode is 1920x1080x32, (Unknown graphics card)
+IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+--------------------------------------------------------------------------------
+Stream Engine Initialization
+GameName: Crysis 3
+BuildTime: Mar 19 2013 22:12:26
+Font initialization
+Physics initialization
+Sound initialization
+<Sound> Initializing AudioDevice now!
+<Sound> Initialize FMOD with dynamic memory callbacks
+<Sound> Starting to initialize Windows Audio Session API output! 
+<Sound> Playback drivers found: 2
+<Sound> Available playback drivers:
+	1.	Realtek HDMI Output (ATI HDMI Audio)
+	2.	Realtek Digital Output (Realtek High Definition Audio)
+<Sound> FmodEx-AudioDevice: Now running on driver: Realtek HDMI Output (ATI HDMI Audio)
+<Sound> No record drivers found!
+<Sound> Record config is set to autodetect using record driver 0
+<Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<Sound> Initializing FMOD-EX now!
+<Sound> Initialized FMOD-EX
+<Sound> Using FMOD version: 00044211 and internal 00044211!
+<Sound> Initializing SoundSystem now!
+Renderer initialization
+Logging video adapters:
+- AMD Radeon HD 6670 (vendor = 0x1002, device = 0x6758)
+  - Adapter index: 0
+  - Dedicated video memory: 1012 MB
+  - Feature level: DX11 (SM 5.0)
+  - Displays connected: yes
+  - Suitable rendering device: yes
+Network initialization
+[net] Socket IO management: External [LobbyIDAddr], Internal [iocp]
+network hostname: Ronix-PC
+  ip:192.168.0.100
+[Network Version]: RELEASE PURE CLIENT
+Lobby initialization
+MovieSystem initialization
+Console initialization
+Time initialization
+Input initialization
+AI initialization
+Initializing Animation System
+Initializing 3D Engine
+Script System Initialization
+Entity system initialization
+LiveCreate initialization
+Initializing AI System
+Initializing additional systems
+[GameProfiles]: Successfully activated profile 'default' for user 'Ronix'
+username Ronix signedIn 1 userIndex -1
+ActivateProfile profileName default
+[Game Version]: RELEASE PURE CLIENT
+Initializing default materials...
+Registering TPS Extensions...
+============================ Loading level River ============================
+Initializing default materials...
+Registering TPS Extensions...
+============================ Loading level river2 ============================
+Initializing default materials...
+Registering TPS Extensions...
+Homing missile: Missile is not physicalized!
+============================ Loading level Islands ============================
+Initializing default materials...
+Registering TPS Extensions...
+System Shutdown
+Windows 7 64 bit (build 6.1.7600)
+System language: Russian
+Windows Directory: "C:\Windows"
+Prerequisites...
+* Installation of KB940105 hotfix required: no! (either not needed or already installed)
+Local time is 20:32:24 11/26/15, system running for 304 minutes
+4078MB physical memory installed, 2486MB available, 4095MB virtual memory installed, 39 percent of memory in use
+PageFile usage: 150MB, Working Set: 122MB, Peak PageFile usage: 186MB,
+Current display mode is 1920x1080x32, (Unknown graphics card)
+IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+--------------------------------------------------------------------------------
+Stream Engine Initialization
+GameName: Crysis 3
+BuildTime: Mar 19 2013 22:12:26
+Font initialization
+Physics initialization
+Sound initialization
+<Sound> Initializing AudioDevice now!
+<Sound> Initialize FMOD with dynamic memory callbacks
+<Sound> Starting to initialize Windows Audio Session API output! 
+<Sound> Playback drivers found: 2
+<Sound> Available playback drivers:
+	1.	Realtek HDMI Output (ATI HDMI Audio)
+	2.	Realtek Digital Output (Realtek High Definition Audio)
+<Sound> FmodEx-AudioDevice: Now running on driver: Realtek HDMI Output (ATI HDMI Audio)
+<Sound> No record drivers found!
+<Sound> Record config is set to autodetect using record driver 0
+<Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<Sound> Initializing FMOD-EX now!
+<Sound> Initialized FMOD-EX
+<Sound> Using FMOD version: 00044211 and internal 00044211!
+<Sound> Initializing SoundSystem now!
+Renderer initialization
+Logging video adapters:
+- AMD Radeon HD 6670 (vendor = 0x1002, device = 0x6758)
+  - Adapter index: 0
+  - Dedicated video memory: 1012 MB
+  - Feature level: DX11 (SM 5.0)
+  - Displays connected: yes
+  - Suitable rendering device: yes
+Network initialization
+[net] Socket IO management: External [LobbyIDAddr], Internal [iocp]
+network hostname: Ronix-PC
+  ip:192.168.0.100
+[Network Version]: RELEASE PURE CLIENT
+Lobby initialization
+MovieSystem initialization
+Console initialization
+Time initialization
+Input initialization
+AI initialization
+Initializing Animation System
+Initializing 3D Engine
+Script System Initialization
+Entity system initialization
+LiveCreate initialization
+Initializing AI System
+Initializing additional systems
+[GameProfiles]: Successfully activated profile 'default' for user 'Ronix'
+username Ronix signedIn 1 userIndex -1
+ActivateProfile profileName default
+[Game Version]: RELEASE PURE CLIENT
+Initializing default materials...
+Registering TPS Extensions...
+System Shutdown
+Windows 7 64 bit (build 6.1.7600)
+System language: Russian
+Windows Directory: "C:\Windows"
+Prerequisites...
+* Installation of KB940105 hotfix required: no! (either not needed or already installed)
+Local time is 19:41:53 11/27/15, system running for 1 minutes
+4078MB physical memory installed, 3153MB available, 4095MB virtual memory installed, 22 percent of memory in use
+PageFile usage: 150MB, Working Set: 122MB, Peak PageFile usage: 186MB,
+Current display mode is 1920x1080x32, (Unknown graphics card)
+IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+--------------------------------------------------------------------------------
+Stream Engine Initialization
+GameName: Crysis 3
+BuildTime: Mar 19 2013 22:12:26
+Font initialization
+Physics initialization
+Sound initialization
+<Sound> Initializing AudioDevice now!
+<Sound> Initialize FMOD with dynamic memory callbacks
+<Sound> Starting to initialize Windows Audio Session API output! 
+<Sound> Playback drivers found: 2
+<Sound> Available playback drivers:
+	1.	Realtek HDMI Output (ATI HDMI Audio)
+	2.	Realtek Digital Output (Realtek High Definition Audio)
+<Sound> FmodEx-AudioDevice: Now running on driver: Realtek HDMI Output (ATI HDMI Audio)
+<Sound> No record drivers found!
+<Sound> Record config is set to autodetect using record driver 0
+<Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<Sound> Initializing FMOD-EX now!
+<Sound> Initialized FMOD-EX
+<Sound> Using FMOD version: 00044211 and internal 00044211!
+<Sound> Initializing SoundSystem now!
+Renderer initialization
+Logging video adapters:
+- AMD Radeon HD 6670 (vendor = 0x1002, device = 0x6758)
+  - Adapter index: 0
+  - Dedicated video memory: 1012 MB
+  - Feature level: DX11 (SM 5.0)
+  - Displays connected: yes
+  - Suitable rendering device: yes
+Network initialization
+[net] Socket IO management: External [LobbyIDAddr], Internal [iocp]
+network hostname: Ronix-PC
+  ip:192.168.0.101
+[Network Version]: RELEASE PURE CLIENT
+Lobby initialization
+MovieSystem initialization
+Console initialization
+Time initialization
+Input initialization
+AI initialization
+Initializing Animation System
+Initializing 3D Engine
+Script System Initialization
+Entity system initialization
+LiveCreate initialization
+Initializing AI System
+Initializing additional systems
+[GameProfiles]: Successfully activated profile 'default' for user 'Ronix'
+username Ronix signedIn 1 userIndex -1
+ActivateProfile profileName default
+[Game Version]: RELEASE PURE CLIENT
+Initializing default materials...
+Registering TPS Extensions...
+[flow-log] 
+[flow-log] LOG1337-MUSIC_UNLOCK
+[flow-log] LOG1337-LEVEL_LOAD
+============================ Loading level Cave ============================
+Initializing default materials...
+Registering TPS Extensions...
+[flow] Animations:BoneInfo: Cannot find bone 'Bip01 Head' in character 0 of entity 'AB3_AlienBoss_entity'
+[flow-log] NanoSuit ON / MalFunction
+[flow-log] Rain_AB2_console // Disable
+[flow-log] Rain_AB1_PC // Disable
+[flow-log] Rain_AB1_console // Disable
+[flow-log] Rain_AB2_PC_rift // Disable
+[flow-log] Rain_AB2_PC_main // Disable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Level.Savegames.05 > DONE
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Level.Savegames.10 > DONE
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_PC // Enable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Level.Savegames.11 > DONE
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit ON / MalFunction
+[flow-log] NanoSuit OFF / Faked Stealth ON
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit ON / MalFunction
+[flow-log] NanoSuit OFF / Faked Stealth ON
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_PC // Disable
+[flow-log] Rain_AB1_console // Disable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Level.Savegames.12 > DONE
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB1_aWave2_Pylon_A_init > Enabled
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] MissionObjective20_Pylon_A > Activated
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_PC // Enable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Idle part2
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Combat
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 8
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Level.Savegames.12 > DONE
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB1_aWave2_Pylon_A_init > Enabled
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_PC // Enable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Idle part2
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] MissionObjective20_Pylon_A > Activated
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Combat
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 8
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Level.Savegames.12 > DONE
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB1_aWave2_Pylon_A_init > Enabled
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_PC // Enable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Combat
+[flow-log] MissionObjective20_Pylon_A > Activated
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 8
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Level.Savegames.12 > DONE
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB1_aWave2_Pylon_A_init > Enabled
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] MissionObjective20_Pylon_A > Activated
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Idle part2
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_PC // Enable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Combat
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 8
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 6
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Level.Savegames.12 > DONE
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Enabled
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_PC // Enable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] MissionObjective20_Pylon_A > Activated
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Combat
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 6
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Idle part2
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 6
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 5
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 4
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 2
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 1
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+System Shutdown
+Windows 7 64 bit (build 6.1.7600)
+System language: Russian
+Windows Directory: "C:\Windows"
+Prerequisites...
+* Installation of KB940105 hotfix required: no! (either not needed or already installed)
+Local time is 14:19:59 12/27/15, system running for 9 minutes
+4078MB physical memory installed, 2586MB available, 4095MB virtual memory installed, 36 percent of memory in use
+PageFile usage: 150MB, Working Set: 122MB, Peak PageFile usage: 186MB,
+Current display mode is 1920x1080x32, (Unknown graphics card)
+IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+--------------------------------------------------------------------------------
+Stream Engine Initialization
+GameName: Crysis 3
+BuildTime: Mar 19 2013 22:12:26
+Font initialization
+Physics initialization
+Sound initialization
+<Sound> Initializing AudioDevice now!
+<Sound> Initialize FMOD with dynamic memory callbacks
+<Sound> Starting to initialize Windows Audio Session API output! 
+<Sound> Playback drivers found: 2
+<Sound> Available playback drivers:
+	1.	Realtek HDMI Output (ATI HDMI Audio)
+	2.	Realtek Digital Output (Realtek High Definition Audio)
+<Sound> FmodEx-AudioDevice: Now running on driver: Realtek HDMI Output (ATI HDMI Audio)
+<Sound> No record drivers found!
+<Sound> Record config is set to autodetect using record driver 0
+<Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<Sound> Initializing FMOD-EX now!
+<Sound> Initialized FMOD-EX
+<Sound> Using FMOD version: 00044211 and internal 00044211!
+<Sound> Initializing SoundSystem now!
+Renderer initialization
+Logging video adapters:
+- AMD Radeon HD 6670 (vendor = 0x1002, device = 0x6758)
+  - Adapter index: 0
+  - Dedicated video memory: 1012 MB
+  - Feature level: DX11 (SM 5.0)
+  - Displays connected: yes
+  - Suitable rendering device: yes
+Network initialization
+[net] Socket IO management: External [LobbyIDAddr], Internal [iocp]
+network hostname: Ronix-PC
+  ip:192.168.0.101
+[Network Version]: RELEASE PURE CLIENT
+Lobby initialization
+MovieSystem initialization
+Console initialization
+Time initialization
+Input initialization
+AI initialization
+Initializing Animation System
+Initializing 3D Engine
+Script System Initialization
+Entity system initialization
+LiveCreate initialization
+Initializing AI System
+Initializing additional systems
+[GameProfiles]: Successfully activated profile 'default' for user 'Ronix'
+username Ronix signedIn 1 userIndex -1
+ActivateProfile profileName default
+[Game Version]: RELEASE PURE CLIENT
+Initializing default materials...
+Registering TPS Extensions...
+[flow] Animations:BoneInfo: Cannot find bone 'Bip01 Head' in character 0 of entity 'AB3_AlienBoss_entity'
+[flow-log] Level.Savegames.12 > DONE
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB1_aWave2_Pylon_A_init > Enabled
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Idle part2
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_PC // Enable
+[flow-log] MissionObjective20_Pylon_A > Activated
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Combat
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 8
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Level.Savegames.12 > DONE
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB1_aWave2_Pylon_A_init > Enabled
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Idle part2
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Combat
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 6
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_PC // Enable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] MissionObjective20_Pylon_A > Activated
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 5
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 4
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 5
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Level.Savegames.12 > DONE
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB1_aWave2_Pylon_A_init > Enabled
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_PC // Enable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Combat
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] MissionObjective20_Pylon_A > Activated
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 6
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Idle part2
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 5
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 4
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_console // Disable
+[flow-log] Rain_AB1_PC // Disable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_PC // Enable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 4
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Level.Savegames.12 > DONE
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB1_aWave2_Pylon_A_init > Enabled
+[flow-log] Ai ActiveCount: 7
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] MissionObjective20_Pylon_A > Activated
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Rain_AB1_PC // Enable
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] AB1_aWave2_Pylon_A_init > Combat
+[flow-log] AB1_aWave2_Pylon_A_init > Idle part2
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 6
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 5
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 6
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 3
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 2
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 1
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Ai ActiveCount: 0
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit ON / MalFunction
+[flow-log] MissionObjective20_Pylon_A > Completed
+[flow-log] MindCarrier A / SuperCharge90.000000 sec
+[flow-log] Rain_AB1_console // Disable
+[flow-log] Rain_AB1_PC // Disable
+[flow-log] Ai ActiveCount: 2
+[flow-log] Level.Savegames.13 > DONE
+[flow-log] Ai ActiveCount: 4
+[flow-log] Ai ActiveCount: 4
+[flow-log] Ai ActiveCount: 1
+[flow-log] Ai ActiveCount: 4
+[flow-log] MissionObjective21_WayTo > Activated
+[flow-log] Ai ActiveCount: 1
+[flow-log] Ai ActiveCount: 0
+[flow-log] Level.Savegames.14 > DONE
+[flow-log] MissionObjective_S1 > Activated
+[flow-log] Rain_AB2_PC_main // Enable
+[flow-log] MissionObjective21_WayTo > Completed
+[flow-log] Level.Savegames.20 > DONE
+[flow-log] AB2 Territory enabled
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB2_Wave_Init_Middle / enabled
+[flow-log] Ai ActiveCount: 4
+[flow-log] MissionObjective25_Pylon_B > Activated
+[flow-log] MissionObjective26_Pylon_C > Activated
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 5
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] Rain_AB2_PC_main // Disable
+[flow-log] Rain_AB2_PC_rift // Disable
+[flow-log] Ai ActiveCount: 4
+[flow-log] Level.Savegames.20 > DONE
+[flow-log] Rain_AB2_PC_main // Disable
+[flow-log] Rain_AB2_PC_rift // Disable
+[flow-log] Rain_AB2_PC_main // Enable
+[flow-log] AB2 Territory enabled
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB2_Wave_Init_Middle / enabled
+[flow-log] Ai ActiveCount: 4
+[flow-log] MissionObjective25_Pylon_B > Activated
+[flow-log] MissionObjective26_Pylon_C > Activated
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 5
+[flow-log] AB2_Wave_Init_Middle / Hold middle
+[flow-log] AB2_Wave_Init_B_side/ defend B
+[flow-log] Ai ActiveCount: 4
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB2_Wave_Init_B_side/ enabled
+[flow-log] Ai ActiveCount: 6
+[flow-log] Ai ActiveCount: 6
+[flow-log] AB2_Wave_Init_B_side / disabled
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB2_Wave_Init_B_side/ enabled
+[flow-log] Ai ActiveCount: 6
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] Ai ActiveCount: 5
+[flow-log] AB2_Wave_PylonB_1_defender / enabled
+[flow-log] Ai ActiveCount: 7
+[flow-log] Ai ActiveCount: 6
+[flow-log] Level.AB2.Wave_Respawner1_active // true
+[flow-log] AB2_Wave_Respawner1 // Pool full
+[flow-log] Ai ActiveCount: 8
+[flow-log] Level.Savegames.23 > DONE
+[flow-log] Level.AB2.Wave_Respawner1_spawnblocked // true
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 9
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] Ai ActiveCount: 8
+[flow-log] Ai ActiveCount: 7
+[flow-log] Level.AB2.Wave_Respawner1_spawnblocked // true
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 8
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] Level.AB2.Wave_Respawner1_spawnblocked // true
+[flow-log] Rain_AB2_PC_main // Disable
+[flow-log] Rain_AB2_PC_rift // Disable
+[flow-log] Ai ActiveCount: 7
+[flow-log] Level.AB2.Wave_Respawner1_respawndelay // increased
+[flow-log] Ai ActiveCount: 6
+[flow-log] Ai ActiveCount: 5
+[flow-log] Level.AB2.Wave_Respawner1_respawndelay // increased
+[flow-log] Ai ActiveCount: 4
+[flow-log] Rain_AB2_PC_main // Enable
+[flow-log] AB2_Wave_Init_B_side / disabled
+[flow-log] AB2_Wave_PylonB_1_defender / disabled
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 2
+[flow-log] AB2_aWave_Init_Rift / enabled
+[flow-log] Ai ActiveCount: 4
+[flow-log] Ai ActiveCount: 4
+[flow-log] AB2_aWave_Init_Rift / disabled
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] AB2_Wave_Init_B_side/ enabled
+[flow-log] Ai ActiveCount: 2
+[flow-log] AB2_Wave_PylonB_1_defender / enabled
+[flow-log] Ai ActiveCount: 4
+[flow-log] AB2_Wave_Init_B_side / disabled
+[flow-log] AB2_Wave_PylonB_1_defender / disabled
+[flow-log] Ai ActiveCount: 2
+[flow-log] AB2_aWave_Init_Rift / enabled
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 4
+[flow-log] Ai ActiveCount: 4
+[flow-log] AB2_aWave_Init_Rift / disabled
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] AB2_Wave_Init_B_side/ enabled
+[flow-log] Ai ActiveCount: 2
+[flow-log] AB2_Wave_PylonB_1_defender / enabled
+[flow-log] Ai ActiveCount: 4
+[flow-log] Ai ActiveCount: 3
+[flow-log] Level.AB2.Wave_Respawner1_spawnblocked // true
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 4
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] Level.AB2.Wave_Respawner1_spawnblocked // true
+[flow-log] Rain_AB2_PC_main // Disable
+[flow-log] Rain_AB2_PC_rift // Disable
+[flow-log] Ai ActiveCount: 3
+[flow-log] Level.AB2.Wave_Respawner1_spawnblocked // true
+[flow-log] Rain_AB2_PC_main // Enable
+[flow-log] AB2_aWave_Init_Rift / enabled
+[flow-log] Ai ActiveCount: 5
+[flow-log] Ai ActiveCount: 4
+[flow-log] Ai ActiveCount: 3
+[flow-log] Ai ActiveCount: 2
+[flow-log] AB2_aWave_Init_Rift / disabled
+[flow-log] Level.AB2.Wave_Respawner1_spawnblocked // true
+[flow-log] Ai ActiveCount: 0
+[flow-log] MissionObjective25_Pylon_B > Completed
+[flow-log] MindCarrier B / SuperCharge120.000000 sec
+[flow-log] AB2_Wave_PylonB_2_attacker / enabled
+[flow-log] Ai ActiveCount: 2
+[flow-log] Ai ActiveCount: 5
+[flow-log] Ai ActiveCount: 5
+[flow-log] Level.Savegames.21 > DONE
+[flow-log] AB2_Wave_PylonB_3_attacker 3 // Hold pos
+[flow-log] AB2_Wave_PylonB_3_attacker 2 // Hold pos
+[flow-log] AB2_Wave_PylonB_3_attacker 1 // Hold pos
+[flow-log] AB2_Wave_PylonB_3_attacker 3 // Cancel
+[flow-log] AB2_aWave_Init_Rift / enabled
+[flow-log] Ai ActiveCount: 7
+[flow-log] AB2_Wave_PylonB_3_attacker 2 // Cancel
+[flow-log] AB2_Wave_PylonB_3_attacker 1 // Cancel
+[flow-log] Ai ActiveCount: 6
+[flow-log] Ai ActiveCount: 5
+[flow-log] Ai ActiveCount: 4
+[flow-log] Level.AB2.Wave_Respawner1_spawnblocked // true
+[flow-log] Level.AB2.Wave_Respawner5_spawnblocked // true > SuperCharge OFF
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Rain_AB2_PC_rift // Enable
+[flow-log] Rain_AB2_PC_main // Disable
+[flow-log] Level.AB2.Wave_Respawner5_active // WayTo MC C > active
+[flow-log] Ai ActiveCount: 4
+[flow-log] AB2_Wave_Respawner5 // Pool full
+[flow-log] Ai ActiveCount: 7
+[flow-log] AB2_Wave_Respawner5 // Spawn
+[flow-log] Ai ActiveCount: 7
+[flow-log] AB2_aGrunt_Respawner5_1 spawn
+[flow-log] AB2_Wave_Respawner5 // Spawn
+[flow-log] AB2_aGrunt_Respawner5_3 beam 2
+[flow-log] AB2_aGrunt_Respawner5_2 beam 2
+[flow-log] AB2_aGrunt_Respawner5_1 beam 2
+[flow-log] Ai ActiveCount: 6
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] Rain_AB2_PC_main // Enable
+[flow-log] Rain_AB2_PC_rift // Disable
+[flow-log] Ai ActiveCount: 5
+[flow-log] AB2_aWave_Init_Rift / disabled
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 4
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] Rain_AB2_PC_main // Disable
+[flow-log] Rain_AB2_PC_rift // Disable
+[flow-log] Ai ActiveCount: 3
+[flow-log] Rain_AB2_PC_main // Enable
+[flow-log] AB2_Wave_PylonB_2_attacker / disabled
+[flow-log] AB2_Wave_Init_B_side / disabled
+[flow-log] AB2_Wave_PylonB_1_defender / disabled
+[flow-log] AB2_aWave_Init_Rift / enabled
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 6
+[flow-log] Ai ActiveCount: 6
+[flow-log] Level.Savegames.21 > DONE
+[flow-log] AB2_Wave_PylonB_3_attacker 3 // Hold pos
+[flow-log] AB2_Wave_PylonB_3_attacker 2 // Hold pos
+[flow-log] AB2_Wave_PylonB_3_attacker 1 // Hold pos
+[flow-log] AB2_Wave_PylonB_3_attacker 3 // Cancel
+[flow-log] AB2_aWave_Init_Rift / enabled
+[flow-log] Ai ActiveCount: 11
+[flow-log] AB2_Wave_PylonB_3_attacker 2 // Cancel
+[flow-log] AB2_Wave_PylonB_3_attacker 1 // Cancel
+[flow-log] Ai ActiveCount: 10
+[flow-log] AB2_aWave_Init_Rift / disabled
+[flow-log] Ai ActiveCount: 8
+[flow-log] AB2_aWave_Init_Rift / enabled
+[flow-log] Ai ActiveCount: 10
+[flow-log] Ai ActiveCount: 9
+[flow-log] Ai ActiveCount: 8
+[flow-log] Ai ActiveCount: 7
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Rain_AB2_PC_rift // Enable
+[flow-log] Rain_AB2_PC_main // Disable
+[flow-log] Level.AB2.Wave_Respawner5_active // WayTo MC C > active
+[flow-log] Ai ActiveCount: 8
+[flow-log] AB2_Wave_Respawner5 // Pool full
+[flow-log] Ai ActiveCount: 11
+[flow-log] AB2_Wave_Respawner5 // Spawn
+[flow-log] Ai ActiveCount: 11
+[flow-log] AB2_aGrunt_Respawner5_1 spawn
+[flow-log] AB2_Wave_Respawner5 // Spawn
+[flow-log] AB2_aGrunt_Respawner5_3 beam 2
+[flow-log] AB2_aGrunt_Respawner5_2 beam 2
+[flow-log] AB2_aGrunt_Respawner5_1 beam 2
+[flow-log] Level.AB2.Wave_Respawner1_spawnblocked // true
+[flow-log] Level.AB2.Wave_Respawner5_spawnblocked // true > SuperCharge OFF
+[flow-log] Ai ActiveCount: 10
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] Rain_AB2_PC_main // Enable
+[flow-log] Rain_AB2_PC_rift // Disable
+[flow-log] Ai ActiveCount: 9
+[flow-log] AB2_aWave_Init_Rift / disabled
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 8
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] Rain_AB2_PC_main // Disable
+[flow-log] Rain_AB2_PC_rift // Disable
+[flow-log] Ai ActiveCount: 7
+[flow-log] Ai ActiveCount: 6
+[flow-log] Rain_AB2_PC_main // Enable
+[flow-log] Ai ActiveCount: 5
+[flow-log] Ai ActiveCount: 4
+[flow-log] Ai ActiveCount: 3
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] Ai ActiveCount: 1
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] AB2_aGrunt_Respawner5_1 dead
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] Ai ActiveCount: 0
+[flow-log] AB2_Wave_PylonB_2_attacker / disabled
+[flow-log] AB2_Wave_Init_B_side / disabled
+[flow-log] AB2_Wave_PylonB_1_defender / disabled
+[flow-log] Level.AB2.Wave_Respawner2_active // true
+[flow-log] AB2_Wave_Respawner2 // Pool full
+[flow-log] AB2_aWave_Init_Rift / enabled
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 4
+[flow-log] Ai ActiveCount: 5
+[flow-log] Ai ActiveCount: 6
+[flow-log] Level.AB2.Wave_Respawner2_respawndelay // increased
+[flow-log] Ai ActiveCount: 5
+[flow-log] AB2_aWave_Init_Rift / disabled
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] Ai ActiveCount: 2
+[flow-log] AB2_Wave_Respawner2 // Pool full
+[flow-log] Ai ActiveCount: 3
+[flow-log] Level.AB2.Wave_Respawner2_respawndelay // increased
+[flow-log] Ai ActiveCount: 2
+[flow-log] AB2_aWave_Init_Rift / enabled
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 5
+[flow-log] Ai ActiveCount: 5
+[flow-log] AB2_aWave_Init_Rift / disabled
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] Ai ActiveCount: 2
+[flow-log] AB2_Wave_Respawner2 // Pool full
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB2_aWave_Pinger_A / enabled
+[flow-log] Ai ActiveCount: 4
+[flow-log] Level.AB2.Wave_Respawner2_respawndelay // increased
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB2_Wave_Respawner2 // Pool full
+[flow-log] Ai ActiveCount: 4
+[flow-log] Level.AB2.Wave_Respawner2_respawndelay // increased
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB2_Wave_Respawner2 // Pool full
+[flow-log] Ai ActiveCount: 4
+[flow-log] AB2_aWave_Init_Rift / enabled
+[flow-log] Ai ActiveCount: 6
+[flow-log] Level.AB2.Wave_Respawner2_respawndelay // increased
+[flow-log] Ai ActiveCount: 5
+[flow-log] AB2_Wave_Respawner2 // Pool full
+[flow-log] Ai ActiveCount: 6
+[flow-log] Level.AB2.Wave_Respawner2_spawnblocked // true > MC C
+[flow-log] Rain_AB2_PC_rift // Enable
+[flow-log] Rain_AB2_PC_main // Disable
+[flow-log] Level.AB2.Wave_Respawner2_respawndelay // increased
+[flow-log] Ai ActiveCount: 5
+[flow-log] Level.AB2.Wave_Respawner2_respawndelay // increased
+[flow-log] Ai ActiveCount: 4
+[flow-log] Level.AB2.Wave_Respawner2_respawndelay // increased
+[flow-log] Ai ActiveCount: 3
+[flow-log] MissionObjective26_Pylon_C > Completed
+[flow-log] Ai ActiveCount: 5
+[flow-log] MindCarrier C / SuperCharge INF
+[flow-log] Ai ActiveCount: 8
+[flow-log] Ai ActiveCount: 8
+[flow-log] MissionObjective27_Bridge > Activated
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay bodycount // reset
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] Level.Savegames.22 > DONE
+[flow-log] Ai ActiveCount: 11
+[flow-log] AB2_ AIWave_Rift_AB_1 / enabled
+[flow-log] Ai ActiveCount: 11
+[flow-log] Ai ActiveCount: 10
+[flow-log] Ai ActiveCount: 8
+[flow-log] Ai ActiveCount: 10
+[flow-log] Ai ActiveCount: 9
+[flow-log] Rain_AB2_PC_main // Enable
+[flow-log] Rain_AB2_PC_rift // Disable
+[flow-log] Ai ActiveCount: 8
+[flow-log] Ai ActiveCount: 7
+[flow-log] Ai ActiveCount: 6
+[flow-log] Ai ActiveCount: 5
+[flow-log] AB2_aWave_Init_Rift / disabled
+[flow-log] AB2_ AIWave_Rift_AB_1 / disabled
+[flow-log] Ai ActiveCount: 1
+[flow-log] Ai ActiveCount: 1
+[flow-log] AB2_aWave_Init_Rift / enabled
+[flow-log] Rain_AB2_PC_rift // Enable
+[flow-log] Rain_AB2_PC_main // Disable
+[flow-log] Ai ActiveCount: 2
+[flow-log] Ai ActiveCount: 4
+[flow-log] AB2_ AIWave_Rift_AB_1 / enabled
+[flow-log] AB2_aWave_Pinger_A / disabled
+[flow-log] Level.AB2.Wave_Respawner5_spawnblocked // false > CEPH Wormhole active
+[flow-log] Level.AB2.Wave_Respawner5_active // CEPH Wormhole active
+[flow-log] Ai ActiveCount: 4
+[flow-log] AB2_Wave_Respawner5 // Pool full
+[flow-log] Ai ActiveCount: 6
+[flow-log] AB2_Wave_Respawner5 // Pool full
+[flow-log] AB2_aGrunt_Respawner5_1 spawn
+[flow-log] Ai ActiveCount: 7
+[flow-log] Ai ActiveCount: 7
+[flow-log] AB2_Wave_Respawner5 // Spawn
+[flow-log] AB2_Wave_Respawner5 // Pool full
+[flow-log] AB2_Wave_Respawner5 // Spawn
+[flow-log] AB2_aGrunt_Respawner5_3 beam
+[flow-log] AB2_aGrunt_Respawner5_1 beam
+[flow-log] AB2_aGrunt_Respawner5_2 beam
+[flow-log] Ai ActiveCount: 6
+[flow-log] Ai ActiveCount: 4
+[flow-log] AB2_aGrunt_Respawner5_1 dead
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] AB2_Wave_Respawner5 // Pool full
+[flow-log] AB2_aGrunt_Respawner5_1 spawn
+[flow-log] Ai ActiveCount: 5
+[flow-log] AB2_Wave_Respawner5 // Spawn
+[flow-log] AB2_aGrunt_Respawner5_1 beam
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] Ai ActiveCount: 4
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] Ai ActiveCount: 3
+[flow-log] AB2_Wave_Respawner5 // Pool full
+[flow-log] Ai ActiveCount: 5
+[flow-log] AB2_Wave_Respawner5 // Spawn
+[flow-log] AB2_aGrunt_Respawner5_2 beam
+[flow-log] AB2_aGrunt_Respawner5_3 beam
+[flow-log] AB2_Wave_Respawner5 // Pool full
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] Ai ActiveCount: 4
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] Ai ActiveCount: 2
+[flow-log] AB2_aGrunt_Respawner5_1 dead
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] AB2_Wave_Respawner5 // Pool full
+[flow-log] AB2_aGrunt_Respawner5_1 spawn
+[flow-log] Ai ActiveCount: 5
+[flow-log] AB2_Wave_Respawner5 // Spawn
+[flow-log] AB2_aGrunt_Respawner5_1 beam 3
+[flow-log] AB2_aGrunt_Respawner5_3 beam 3
+[flow-log] AB2_aGrunt_Respawner5_2 beam 3
+[flow-log] AB2_aGrunt_Respawner5_1 dead
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] Level.AB2.Wave_Respawner5_spawnblocked true // Body count
+[flow-log] Ai ActiveCount: 4
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] Level.AB2.Wave_Respawner5_spawnblocked true // Body count
+[flow-log] Ai ActiveCount: 3
+[flow-log] Level.AB2.Wave_Respawner5_respawndelay // increased
+[flow-log] Level.AB2.Wave_Respawner5_spawnblocked true // Body count
+[flow-log] Ai ActiveCount: 2
+[flow-log] Level.AB2.Wave_Respawner2_spawnblocked // true > Rift CD side
+[flow-log] Level.AB2.Wave_Respawner1_spawnblocked // true > CEPH wormhole active
+[flow-log] Level.AB2.Wave_Respawner2_spawnblocked // true > Rift CD side
+[flow-log] Level.AB2.Wave_Respawner1_spawnblocked // true > CEPH wormhole active
+[flow-log] Level.AB2.Wave_Respawner5_spawnblocked true // Transition to AB3
+[flow-log] MissionObjective27_Bridge > BeamTo
+[flow-log] MissionObjective27_Bridge > BeamTo
+[flow-log] Level.AB2.Wave_Respawner5_active // false
+[flow-log] AB2_ AIWave_Rift_AB_1 / disabled
+[flow-log] Ai ActiveCount: 0
+[flow-log] MissionObjective_S2 > Failed
+[flow-log] MissionObjective_S1 > Failed
+[flow-log] AB2_aWave_Init_Rift / disabled
+[flow-log] Rain_AB2_PC_rift // Disable
+[flow-log] Rain_AB2_PC_main // Disable
+[flow-log] Level.Savegames.30 > DONE
+[flow-log] MissionObjective30_StopMachine > Activated
+[flow-log] AB2 Territory disabled
+[flow-log] Stage 1 / Start Intro
+[flow-log] Stage1 / MACHINE STOP
+[flow-log] Stage1 / Attacking
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 1
+[flow-log] MachineGun > 5
+[flow-log] Stage1 / Taunt request - Cover
+[flow-log] Boss / Taunt
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 3
+[flow-log] MachineGun > 2
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Stage1 / Attack - Pattern 4 A
+[flow-log] Plasma > 1
+[flow-log] Accuracy Left - plasma > 0.400000
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Boss / Taunt
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 2 A
+[flow-log] Lightning > 1
+[flow-log] Accuracy Left - lightning> 0.540000
+[flow-log] Stage1 / DisableSuperCharge - Ping - Pattern 1
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Boss / Ping / SuperCharge OFF
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 1
+[flow-log] MachineGun > 5
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 4 A
+[flow-log] Plasma > 1
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 3
+[flow-log] MachineGun > 2
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Boss / Taunt
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 2 A
+[flow-log] Lightning > 1
+[flow-log] Accuracy Left - lightning> 0.540000
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 1
+[flow-log] MachineGun > 5
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 4 B
+[flow-log] Plasma > 1
+[flow-log] Accuracy Right - plasma > 0.400000
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 3
+[flow-log] MachineGun > 2
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Boss / Taunt
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 2 B
+[flow-log] Lightning > 1
+[flow-log] Accuracy Right - lightning > 0.540000
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 1
+[flow-log] MachineGun > 5
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Heavy damage
+[flow-log] Stage1 / Attack - Pattern 4 A
+[flow-log] Plasma > 1
+[flow-log] Accuracy Left - plasma > 0.400000
+[flow-log] Stomp Inner - trigger
+[flow-log] Stomp Inner Anim - started
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stomp - done
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 3
+[flow-log] MachineGun > 2
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Boss / Taunt
+[flow-log] Stage1 / Heavy damage
+[flow-log] Stage1 / LowHealth
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack ready
+[flow-log] Stage1 / Rage Attack Upper
+[flow-log] MachineGun > 5
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Stage1 / Rage Attack Left
+[flow-log] MachineGun > 4
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage1 / Rage Attack Right
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] MachineGun > 4
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown start
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Tank / Player enters
+[flow-log] Stage1 / CoolDown stop
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack ready
+[flow-log] Stage1 / Rage Attack Upper
+[flow-log] Lightning > 1
+[flow-log] Accuracy Upper - lightning> 0.540000
+[flow-log] Stage1 / Rage Attack Left
+[flow-log] Lightning > 1
+[flow-log] Accuracy Left - lightning> 0.540000
+[flow-log] Stage1 / Rage Attack Right
+[flow-log] Lightning > 1
+[flow-log] Accuracy Right - lightning > 0.540000
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Tank / Player exits
+[flow-log] Tank destroyed / Turret broken
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown start
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown stop
+[flow-log] Stage1 / DrillHead RageAttack ready
+[flow-log] Stage1 / Rage Attack Upper
+[flow-log] MachineGun > 5
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Stage1 / Rage Attack Left
+[flow-log] MachineGun > 4
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage1 / Rage Attack Right
+[flow-log] MachineGun > 4
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Level.Savegames.30 > DONE
+[flow-log] Level.Savegames.25 > DONE
+[flow-log] MissionObjective30_StopMachine > Activated
+[flow-log] AB2 Territory disabled
+[flow-log] Stage 1 / Start Intro
+[flow-log] Stage1 / MACHINE STOP
+[flow-log] Stage1 / Attacking
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 1
+[flow-log] MachineGun > 5
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 4 A
+[flow-log] Plasma > 1
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 3
+[flow-log] MachineGun > 2
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Stage1 / Heavy damage
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stomp Outer - trigger
+[flow-log] Stomp Outer Anim - started
+[flow-log] Stage1 / DisableSuperCharge - Ping - Pattern 1
+[flow-log] Stomp Outer- lift DOWN
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stomp Outer- Reset
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Level.Savegames.30 > DONE
+[flow-log] Level.Savegames.25 > DONE
+[flow-log] MissionObjective30_StopMachine > Activated
+[flow-log] AB2 Territory disabled
+[flow-log] Stage 1 / Start Intro
+[flow-log] Stage1 / MACHINE STOP
+[flow-log] Stage1 / Attacking
+[flow-log] Stage1 / Heavy damage
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stomp Outer - trigger
+[flow-log] Stomp Outer Anim - started
+[flow-log] Stage1 / DisableSuperCharge - Ping - Pattern 1
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stomp Outer- lift DOWN
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stomp Outer- Reset
+[flow-log] Boss / Battery / SuperCharge ON
+[flow-log] Stomp - done
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 1
+[flow-log] MachineGun > 5
+[flow-log] Accuracy Left - machine > 0.540000
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / Heavy damage
+[flow-log] Stage1 / LowHealth
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack ready
+[flow-log] Stage1 / Rage Attack Upper
+[flow-log] MachineGun > 5
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Stage1 / Rage Attack Left
+[flow-log] MachineGun > 4
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage1 / Rage Attack Right
+[flow-log] MachineGun > 4
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown start
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown stop
+[flow-log] Stage1 / DrillHead RageAttack ready
+[flow-log] Stage1 / Rage Attack Upper
+[flow-log] Lightning > 1
+[flow-log] Accuracy Upper - lightning> 0.570000
+[flow-log] Stage1 / Rage Attack Right
+[flow-log] Lightning > 1
+[flow-log] Stage1 / Rage Attack Left
+[flow-log] Lightning > 1
+[flow-log] Accuracy Left - lightning> 0.570000
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown start
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown stop
+[flow-log] Stage1 / DrillHead RageAttack ready
+[flow-log] Stage1 / Rage Attack Upper
+[flow-log] MachineGun > 5
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Stage1 / Rage Attack Left
+[flow-log] MachineGun > 4
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage1 / Rage Attack Right
+[flow-log] MachineGun > 4
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown start
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / Broken Left
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit ON / MalFunction
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] Boss / Battery / SuperCharge OFF
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] Stage1 / MACHINE START
+[flow-log] TractorBeam / Player reset
+[flow-log] AB3_AIWave1 Spawn signal
+[flow-log] Level.AB3.Wave_Respawner1_2_spawn
+[flow-log] Level.AB3.Wave_Respawner1_1_spawn
+[flow-log] AB3_AIWave1 Spawn output
+[flow-log] AB3_aGrunt_Wave1_2 / beam pos 1
+[flow-log] AB3_aGrunt_Wave1_1 / beam pos 1
+[flow-log] AB3_AIWave2 Spawn signal
+[flow-log] Level.AB3.Wave_Respawner2_3_spawn
+[flow-log] Level.AB3.Wave_Respawner2_1_spawn
+[flow-log] Level.AB3.Wave_Respawner2_2_spawn
+[flow-log] AB3_AIWave2 Spawn output
+[flow-log] AB3_aGrunt_Wave2_3 / beam pos 1
+[flow-log] AB3_aGrunt_Wave2_2 / beam pos 1
+[flow-log] AB3_aGrunt_Wave2_1 / beam pos 1
+[flow-log] Level.AB3.Wave_Respawner1_2_kill
+[flow-log] AB3_AIWave1 Spawn signal
+[flow-log] 67113
+[flow-log] Level.AB3.Wave_Respawner1_2_spawn
+[flow-log] AB3_AIWave1 Spawn output
+[flow-log] AB3_aGrunt_Wave1_2 / beam pos 3
+[flow-log] Level.AB3.Wave_Respawner2_2_kill
+[flow-log] Boss / Battery / SuperCharge ON
+[flow-log] Level.AB3.Wave_Respawner2_1_kill
+[flow-log] Level.AB3.Wave_Respawner1_2_kill
+[flow-log] Stage1 / DONE > Bodycount
+[flow-log] Level.AB3.Wave_Respawner1_1_kill
+[flow-log] Stage1 / DONE > Bodycount
+[flow-log] Stage2 / Attack signal
+[flow-log] Level.AB3.Wave_Respawner2_3_kill
+[flow-log] Stage2 / Attacking
+[flow-log] Stage2 / DisableSuperCharge - Ping - Pattern 1
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Boss / Ping / SuperCharge OFF
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Stage2  / Attack - Pattern 1
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / DrillHead check
+[flow-log] Boss / Battery / SuperCharge ON
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Melee Attack - PlayerAt check
+[flow-log] Boss / Taunt
+[flow-log] Melee Attack - PLASMA
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Stage2  / Attack - Pattern 3
+[flow-log] MachineGun > 9
+[flow-log] Accuracy Upper - machine > 0.540000
+[flow-log] Stage2  / Attack - Pattern 2 A
+[flow-log] Lightning > 1
+[flow-log] Accuracy Left - lightning> 0.570000
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Stage2  / Attack - Pattern 3
+[flow-log] Stage2  / Attack - Pattern 5 A
+[flow-log] MachineGun > 9
+[flow-log] Plasma > 1
+[flow-log] Accuracy Left - plasma > 0.480000
+[flow-log] Accuracy Upper - machine > 0.540000
+[flow-log] Stage2  / Attack - Pattern 5 B
+[flow-log] Plasma > 1
+[flow-log] Accuracy Right - plasma > 0.480000
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / Heavy damage
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Stage2  / Attack - Pattern 4
+[flow-log] MachineGun > 2
+[flow-log] Accuracy Upper - machine > 0.540000
+[flow-log] Melee Attack - PlayerAt check
+[flow-log] Melee Attack - PLASMA
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / Heavy damage
+[flow-log] Stage2 / LowHealth
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Lightning > 2
+[flow-log] Accuracy Left - lightning> 0.570000
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Lightning > 2
+[flow-log] Accuracy Right - lightning > 0.570000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown start
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Lightning > 1
+[flow-log] Accuracy Upper - lightning> 0.570000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown stop
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Plasma > 1
+[flow-log] Accuracy Upper - plasma > 0.420000
+[flow-log] Level.Savegames.30 > DONE
+[flow-log] Level.Savegames.25 > DONE
+[flow-log] MissionObjective30_StopMachine > Activated
+[flow-log] AB2 Territory disabled
+[flow-log] Stage 1 / Start Intro
+[flow-log] Stage1 / MACHINE STOP
+[flow-log] Stage1 / Attacking
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Attack - Pattern 1
+[flow-log] MachineGun > 5
+[flow-log] Stage1 / Heavy damage
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stomp Outer - trigger
+[flow-log] Stomp Outer Anim - started
+[flow-log] Stage1 / DisableSuperCharge - Ping - Pattern 1
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stomp Outer- lift DOWN
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stomp Outer- Reset
+[flow-log] Stomp - done
+[flow-log] Stage1 / DrillHead Attacking check
+[flow-log] Stage1 / DrillHead Attacking ready
+[flow-log] Stage1 / Heavy damage
+[flow-log] Stage1 / LowHealth
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack ready
+[flow-log] Stage1 / Rage Attack Upper
+[flow-log] MachineGun > 5
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Stage1 / Rage Attack Left
+[flow-log] MachineGun > 4
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage1 / Rage Attack Right
+[flow-log] MachineGun > 4
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown start
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Boss / Battery / SuperCharge ON
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown stop
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack ready
+[flow-log] Stage1 / Rage Attack Upper
+[flow-log] Lightning > 1
+[flow-log] Accuracy Upper - lightning> 0.570000
+[flow-log] Stage1 / Rage Attack Right
+[flow-log] Lightning > 1
+[flow-log] Stage1 / Rage Attack Left
+[flow-log] Lightning > 1
+[flow-log] Accuracy Left - lightning> 0.570000
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown start
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown stop
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack ready
+[flow-log] Stage1 / Rage Attack Upper
+[flow-log] MachineGun > 5
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Stage1 / Rage Attack Left
+[flow-log] MachineGun > 4
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage1 / Rage Attack Right
+[flow-log] MachineGun > 4
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / CoolDown start
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / DrillHead RageAttack check
+[flow-log] Stage1 / Broken Upper
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit ON / MalFunction
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] Stage1 / MACHINE START
+[flow-log] TractorBeam / Player reset
+[flow-log] AB3_AIWave1 Spawn signal
+[flow-log] Level.AB3.Wave_Respawner1_2_spawn
+[flow-log] Level.AB3.Wave_Respawner1_1_spawn
+[flow-log] AB3_AIWave1 Spawn output
+[flow-log] AB3_aGrunt_Wave1_2 / beam pos 1
+[flow-log] AB3_aGrunt_Wave1_1 / beam pos 1
+[flow-log] AB3_AIWave2 Spawn signal
+[flow-log] Level.AB3.Wave_Respawner2_3_spawn
+[flow-log] Level.AB3.Wave_Respawner2_1_spawn
+[flow-log] Level.AB3.Wave_Respawner2_2_spawn
+[flow-log] AB3_AIWave2 Spawn output
+[flow-log] AB3_aGrunt_Wave2_3 / beam pos 1
+[flow-log] AB3_aGrunt_Wave2_1 / beam pos 1
+[flow-log] AB3_aGrunt_Wave2_2 / beam pos 1
+[flow-log] Level.AB3.Wave_Respawner1_2_kill
+[flow-log] Level.AB3.Wave_Respawner1_1_kill
+[flow-log] AB3_AIWave1 Spawn signal
+[flow-log] 656781
+[flow-log] 200583
+[flow-log] Level.AB3.Wave_Respawner1_2_spawn
+[flow-log] Level.AB3.Wave_Respawner1_1_spawn
+[flow-log] AB3_AIWave1 Spawn output
+[flow-log] AB3_aGrunt_Wave1_1 / beam pos 1
+[flow-log] AB3_aGrunt_Wave1_2 / beam pos 1
+[flow-log] AB3_AIWave1 Spawn signal
+[flow-log] Level.AB3.Wave_Respawner2_2_kill
+[flow-log] Level.AB3.Wave_Respawner1_1_kill
+[flow-log] Stage1 / DONE > Bodycount
+[flow-log] Stage2 / Attack signal
+[flow-log] Level.AB3.Wave_Respawner2_3_kill
+[flow-log] Level.AB3.Wave_Respawner2_1_kill
+[flow-log] Stage2 / Attacking
+[flow-log] Level.AB3.Wave_Respawner1_2_kill
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Stage2  / Attack - Pattern 1
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Melee Attack - PlayerAt check
+[flow-log] Boss / Taunt
+[flow-log] Melee Attack - SWEEP
+[flow-log] Sweep - trigger
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / Heavy damage
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Sweep - done
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Stage2  / Attack - Pattern 2 B
+[flow-log] Lightning > 1
+[flow-log] Accuracy Right - lightning > 0.540000
+[flow-log] Stage2 / DrillHead check
+[flow-log] Stage2 / All DrillHeads ready
+[flow-log] Stage2  / Attack - Pattern 3
+[flow-log] MachineGun > 9
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Stage2 / Heavy damage
+[flow-log] Stage2 / LowHealth
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Lightning > 2
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Lightning > 2
+[flow-log] Accuracy Right - lightning > 0.540000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown start
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Lightning > 1
+[flow-log] Accuracy Upper - lightning> 0.540000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown stop
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Plasma > 1
+[flow-log] Accuracy Upper - plasma > 0.300000
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Plasma > 1
+[flow-log] Accuracy Right - plasma > 0.400000
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Plasma > 1
+[flow-log] Accuracy Left - plasma > 0.400000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown start
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown stop
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Lightning > 2
+[flow-log] Accuracy Left - lightning> 0.540000
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Lightning > 2
+[flow-log] Accuracy Right - lightning > 0.540000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Lightning > 1
+[flow-log] Stage2 / CoolDown start
+[flow-log] Accuracy Upper - lightning> 0.540000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown stop
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Plasma > 1
+[flow-log] Accuracy Upper - plasma > 0.300000
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Plasma > 1
+[flow-log] Accuracy Right - plasma > 0.400000
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Plasma > 1
+[flow-log] Accuracy Left - plasma > 0.400000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown start
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown stop
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Lightning > 2
+[flow-log] Accuracy Left - lightning> 0.540000
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Lightning > 2
+[flow-log] Accuracy Right - lightning > 0.540000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Lightning > 1
+[flow-log] Stage2 / CoolDown start
+[flow-log] Accuracy Upper - lightning> 0.540000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown stop
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Plasma > 1
+[flow-log] Accuracy Upper - plasma > 0.300000
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Plasma > 1
+[flow-log] Accuracy Left - plasma > 0.400000
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Plasma > 1
+[flow-log] Accuracy Right - plasma > 0.400000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown start
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown stop
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Lightning > 2
+[flow-log] Accuracy Left - lightning> 0.540000
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Lightning > 2
+[flow-log] Accuracy Right - lightning > 0.540000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown start
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Lightning > 1
+[flow-log] Accuracy Upper - lightning> 0.540000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown stop
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Plasma > 1
+[flow-log] Accuracy Upper - plasma > 0.300000
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Plasma > 1
+[flow-log] Accuracy Left - plasma > 0.400000
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Plasma > 1
+[flow-log] Accuracy Right - plasma > 0.400000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown start
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown stop
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Lightning > 2
+[flow-log] Accuracy Left - lightning> 0.540000
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Lightning > 2
+[flow-log] Accuracy Right - lightning > 0.540000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Lightning > 1
+[flow-log] Stage2 / CoolDown start
+[flow-log] Accuracy Upper - lightning> 0.540000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown stop
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Plasma > 1
+[flow-log] Accuracy Upper - plasma > 0.300000
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Plasma > 1
+[flow-log] Accuracy Right - plasma > 0.400000
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Plasma > 1
+[flow-log] Accuracy Left - plasma > 0.400000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown start
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown stop
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Lightning > 2
+[flow-log] Accuracy Left - lightning> 0.540000
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Lightning > 2
+[flow-log] Accuracy Right - lightning > 0.540000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Lightning > 1
+[flow-log] Stage2 / CoolDown start
+[flow-log] Accuracy Upper - lightning> 0.540000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown stop
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Rage Attack Upper
+[flow-log] Plasma > 1
+[flow-log] Accuracy Upper - plasma > 0.300000
+[flow-log] Stage2 / Rage Attack Left
+[flow-log] Plasma > 1
+[flow-log] Accuracy Left - plasma > 0.400000
+[flow-log] Stage2 / Rage Attack Right
+[flow-log] Plasma > 1
+[flow-log] Accuracy Right - plasma > 0.400000
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / CoolDown start
+[flow-log] Stage2 / DrillHead RageAttack check
+[flow-log] Stage2 / Broken Left
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit ON / MalFunction
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] Stage2 / MACHINE START
+[flow-log] TractorBeam / Player reset
+[flow-log] AB3_AIWave1 Spawn signal
+[flow-log] 656781
+[flow-log] Level.AB3.Wave_Respawner1_1_spawn
+[flow-log] 200583
+[flow-log] Level.AB3.Wave_Respawner1_2_spawn
+[flow-log] AB3_AIWave1 Spawn output
+[flow-log] AB3_aGrunt_Wave1_1 / beam pos 3
+[flow-log] AB3_aGrunt_Wave1_2 / beam pos 3
+[flow-log] Level.Savegames.31 > DONE
+[flow-log] AB3_AIWave3 Spawn signal
+[flow-log] Level.AB3.Wave_Respawner3_2_spawn
+[flow-log] Level.AB3.Wave_Respawner3_3_spawn
+[flow-log] Level.AB3.Wave_Respawner3_1_spawn
+[flow-log] AB3_AIWave3 Spawn output
+[flow-log] AB3_aGrunt_Wave3_2 / beam pos 3
+[flow-log] AB3_aGrunt_Wave3_3 / beam pos 3
+[flow-log] AB3_aGrunt_Wave3_1 / beam pos 3
+[flow-log] Boss / Battery / SuperCharge ON
+[flow-log] Level.AB3.Wave_Respawner3_3_kill
+[flow-log] Level.AB3.Wave_Respawner3_2_kill
+[flow-log] Boss / Battery / SuperCharge OFF
+[flow-log] Level.AB3.Wave_Respawner3_1_kill
+[flow-log] Stage2 / DONE > Timeout
+[flow-log] Level.AB3.Wave_Respawner1_1_kill
+[flow-log] Level.AB3.Wave_Respawner1_2_kill
+[flow-log] Stage3 / Attack signal
+[flow-log] Stage3 / Attacking
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / All DrillHeads ready
+[flow-log] Stage3 / Request Melee
+[flow-log] Melee Attack - PlayerAt check
+[flow-log] Melee Attack - SWEEP
+[flow-log] Sweep - trigger
+[flow-log] Sweep Anim - started
+[flow-log] Stage3 / Heavy damage
+[flow-log] Stage3 / DrillHead check
+[flow-log] Level.Savegames.31 > DONE
+[flow-log] AB3_AIWave3 Spawn signal
+[flow-log] Level.AB3.Wave_Respawner3_2_spawn
+[flow-log] Level.AB3.Wave_Respawner3_3_spawn
+[flow-log] Level.AB3.Wave_Respawner3_1_spawn
+[flow-log] AB3_AIWave3 Spawn output
+[flow-log] AB3_aGrunt_Wave3_2 / beam pos 3
+[flow-log] AB3_aGrunt_Wave3_3 / beam pos 3
+[flow-log] AB3_aGrunt_Wave3_1 / beam pos 3
+[flow-log] Level.AB3.Wave_Respawner1_1_kill
+[flow-log] Level.AB3.Wave_Respawner1_2_kill
+[flow-log] AB3_AIWave1 Spawn signal
+[flow-log] 918926
+[flow-log] 263748
+[flow-log] Level.AB3.Wave_Respawner1_1_spawn
+[flow-log] Level.AB3.Wave_Respawner1_2_spawn
+[flow-log] AB3_AIWave1 Spawn output
+[flow-log] Level.AB3.Wave_Respawner3_3_kill
+[flow-log] AB3_aGrunt_Wave1_2 / beam pos 3
+[flow-log] AB3_aGrunt_Wave1_1 / beam pos 3
+[flow-log] AB3_AIWave1 Spawn signal
+[flow-log] Level.AB3.Wave_Respawner3_2_kill
+[flow-log] Level.AB3.Wave_Respawner1_2_kill
+[flow-log] Stage2 / DONE > Bodycount
+[flow-log] Stage3 / Attack signal
+[flow-log] Tank / Player enters
+[flow-log] Stage3 / Attacking
+[flow-log] Stage3 / Heavy damage
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / Heavy damage
+[flow-log] Stage3 / Heavy damage
+[flow-log] Stage3 / Heavy damage
+[flow-log] Sweep - trigger
+[flow-log] Sweep Anim - started
+[flow-log] Stage3 / Heavy damage
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Tank / Player exits
+[flow-log] Tank destroyed / Turret broken
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Level.AB3.Wave_Respawner1_1_kill
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Sweep - done
+[flow-log] Level.Savegames.31 > DONE
+[flow-log] AB3_AIWave3 Spawn signal
+[flow-log] Level.AB3.Wave_Respawner3_2_spawn
+[flow-log] Level.AB3.Wave_Respawner3_3_spawn
+[flow-log] Level.AB3.Wave_Respawner3_1_spawn
+[flow-log] AB3_AIWave3 Spawn output
+[flow-log] AB3_aGrunt_Wave3_2 / beam pos 3
+[flow-log] AB3_aGrunt_Wave3_3 / beam pos 3
+[flow-log] AB3_aGrunt_Wave3_1 / beam pos 3
+[flow-log] Boss / Battery / SuperCharge ON
+[flow-log] Level.AB3.Wave_Respawner1_2_kill
+[flow-log] Level.AB3.Wave_Respawner1_1_kill
+[flow-log] AB3_AIWave1 Spawn signal
+[flow-log] 263748
+[flow-log] 918926
+[flow-log] Level.AB3.Wave_Respawner1_2_spawn
+[flow-log] Level.AB3.Wave_Respawner1_1_spawn
+[flow-log] AB3_AIWave1 Spawn output
+[flow-log] AB3_aGrunt_Wave1_1 / beam pos 1
+[flow-log] AB3_aGrunt_Wave1_2 / beam pos 1
+[flow-log] Level.AB3.Wave_Respawner3_3_kill
+[flow-log] AB3_AIWave1 Spawn signal
+[flow-log] Level.AB3.Wave_Respawner3_2_kill
+[flow-log] Tank / Player enters
+[flow-log] Level.AB3.Wave_Respawner1_2_kill
+[flow-log] Boss / Battery / SuperCharge OFF
+[flow-log] Stage2 / DONE > Bodycount
+[flow-log] Stage3 / Attack signal
+[flow-log] Tank / Player exits
+[flow-log] Stage3 / Attacking
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / All DrillHeads ready
+[flow-log] Stage3 / Request Melee
+[flow-log] Melee Attack - PlayerAt check
+[flow-log] Melee Attack - SWEEP
+[flow-log] Sweep - trigger
+[flow-log] Sweep Anim - started
+[flow-log] Stage3 / DrillHead check
+[flow-log] Tank destroyed / Turret broken
+[flow-log] Stage3 / DrillHead check
+[flow-log] Sweep - done
+[flow-log] Level.Savegames.31 > DONE
+[flow-log] AB3_AIWave3 Spawn signal
+[flow-log] Level.AB3.Wave_Respawner3_2_spawn
+[flow-log] Level.AB3.Wave_Respawner3_3_spawn
+[flow-log] Level.AB3.Wave_Respawner3_1_spawn
+[flow-log] AB3_AIWave3 Spawn output
+[flow-log] AB3_aGrunt_Wave3_2 / beam pos 3
+[flow-log] AB3_aGrunt_Wave3_1 / beam pos 3
+[flow-log] AB3_aGrunt_Wave3_3 / beam pos 3
+[flow-log] Boss / Battery / SuperCharge ON
+[flow-log] Level.AB3.Wave_Respawner1_1_kill
+[flow-log] Level.AB3.Wave_Respawner1_2_kill
+[flow-log] AB3_AIWave1 Spawn signal
+[flow-log] 918926
+[flow-log] 263748
+[flow-log] Level.AB3.Wave_Respawner1_1_spawn
+[flow-log] Level.AB3.Wave_Respawner1_2_spawn
+[flow-log] AB3_AIWave1 Spawn output
+[flow-log] AB3_aGrunt_Wave1_2 / beam pos 3
+[flow-log] AB3_aGrunt_Wave1_1 / beam pos 3
+[flow-log] AB3_AIWave1 Spawn signal
+[flow-log] Level.AB3.Wave_Respawner3_3_kill
+[flow-log] Level.AB3.Wave_Respawner1_1_kill
+[flow-log] Level.AB3.Wave_Respawner1_2_kill
+[flow-log] Stage2 / DONE > Bodycount
+[flow-log] Level.AB3.Wave_Respawner3_2_kill
+[flow-log] Stage2 / DONE > Bodycount
+[flow-log] Stage3 / Attack signal
+[flow-log] Tank / Player enters
+[flow-log] Boss / Battery / SuperCharge OFF
+[flow-log] Stage3 / Attacking
+[flow-log] Stage3 / Heavy damage
+[flow-log] Stage3 / Heavy damage
+[flow-log] Stage3 / DrillHead check
+[flow-log] Sweep - trigger
+[flow-log] Sweep Anim - started
+[flow-log] Tank / Player exits
+[flow-log] Stage3 / DrillHead check
+[flow-log] Tank destroyed / Turret broken
+[flow-log] Stage3 / DrillHead check
+[flow-log] Sweep - done
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / All DrillHeads ready
+[flow-log] Stage3 / Attack - Pattern 4 A
+[flow-log] Plasma > 1
+[flow-log] Accuracy Left - plasma > 0.400000
+[flow-log] Stage3 / Attack - Pattern 4 B
+[flow-log] Plasma > 1
+[flow-log] Accuracy Right - plasma > 0.400000
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / All DrillHeads ready
+[flow-log] Stage3 / Heavy damage
+[flow-log] Stage3 / Attack - Pattern 4 B
+[flow-log] Plasma > 1
+[flow-log] Accuracy Right - plasma > 0.400000
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / All DrillHeads ready
+[flow-log] Stage3 / Attack - Pattern 4 A
+[flow-log] Plasma > 1
+[flow-log] Accuracy Left - plasma > 0.400000
+[flow-log] Stage3 / Attack - Pattern 4 B
+[flow-log] Plasma > 1
+[flow-log] Accuracy Right - plasma > 0.400000
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / All DrillHeads ready
+[flow-log] Stage3 / Attack - Pattern 1
+[flow-log] MachineGun > 2
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / All DrillHeads ready
+[flow-log] Stage3 / Request Melee
+[flow-log] Melee Attack - PlayerAt check
+[flow-log] Melee Attack - STOMP
+[flow-log] Stomp Inner - trigger
+[flow-log] Stomp Inner Anim - started
+[flow-log] Stage3 / DrillHead check
+[flow-log] Level.AB3.Wave_Respawner3_1_kill
+[flow-log] Stomp - done
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / All DrillHeads ready
+[flow-log] Stage3 / Attack - Pattern 3
+[flow-log] MachineGun > 2
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / All DrillHeads ready
+[flow-log] Stage3 / Attack - Pattern 1
+[flow-log] MachineGun > 2
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / All DrillHeads ready
+[flow-log] Stage3 / Attack - Pattern 4 B
+[flow-log] Plasma > 1
+[flow-log] Accuracy Right - plasma > 0.400000
+[flow-log] Stage3 / Attack - Pattern 4 A
+[flow-log] Plasma > 1
+[flow-log] Accuracy Left - plasma > 0.400000
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / All DrillHeads ready
+[flow-log] Stage3 / Attack - Pattern 2 B
+[flow-log] Lightning > 1
+[flow-log] Accuracy Right - lightning > 0.540000
+[flow-log] Stage3 / Attack - Pattern 2 A
+[flow-log] Lightning > 1
+[flow-log] Accuracy Left - lightning> 0.540000
+[flow-log] Stage3 / DrillHead check
+[flow-log] Stage3 / All DrillHeads ready
+[flow-log] Stage3 / Attack - Pattern 1
+[flow-log] MachineGun > 2
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Stage3 / Heavy damage
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Boss / Battery / SuperCharge ON
+[flow-log] Boss / Battery / SuperCharge ON
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Tank / Player enters
+[flow-log] Tank / Player exits
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Tank / Player enters
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Tank / Player exits
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Boss / Battery / SuperCharge OFF
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Boss / Battery / SuperCharge ON
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Boss / Battery / SuperCharge OFF
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Boss / Battery / SuperCharge ON
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.480000
+[flow-log] Accuracy Right - machine > 0.480000
+[flow-log] Accuracy Left - machine > 0.480000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Boss / Battery / SuperCharge OFF
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Tank / Player enters
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / CoolDown start
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack ready
+[flow-log] Stage3 / Rage Attack Left
+[flow-log] Stage3 / Rage Attack Right
+[flow-log] Stage3 / Rage Attack Upper
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] MachineGun > 6
+[flow-log] Accuracy Upper - machine > 0.360000
+[flow-log] Accuracy Right - machine > 0.360000
+[flow-log] Accuracy Left - machine > 0.360000
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / DrillHead RageAttack check
+[flow-log] Stage3 / Broken Right
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] Tank / Player forced exit > TractorBeam
+[flow-log] Tank / Player exits
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit ON / MalFunction
+[flow-log] NanoSuit OFF / MalFunction
+[flow-log] NanoSuit ON / MalFunction
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+[flow-log] TractorBeam / SuperCharge Blast ON
+[flow-log] TractorBeam / SuperCharge Blast OFF
+============================ Loading level EndGame ============================
+Initializing default materials...
+Registering TPS Extensions...
+System Shutdown
