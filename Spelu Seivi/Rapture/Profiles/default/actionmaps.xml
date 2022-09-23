@@ -1,0 +1,6 @@
+<ActionMaps version="71">
+ <actionmap name="debug"/>
+ <actionmap name="default"/>
+ <actionmap name="flycam"/>
+ <actionmap name="player"/>
+</ActionMaps>

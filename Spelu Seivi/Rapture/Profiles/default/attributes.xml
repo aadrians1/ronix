@@ -1,0 +1,12 @@
+<Attributes Version="32">
+ <Attr name="DialogueVolume" value="1"/>
+ <Attr name="LanguageAudio" value="russian"/>
+ <Attr name="LanguageSubtitle" value="russian"/>
+ <Attr name="MP/ServerLists/0/Num" value="0"/>
+ <Attr name="MP/ServerLists/1/Num" value="0"/>
+ <Attr name="MusicVolume" value="1"/>
+ <Attr name="SFXVolume" value="1"/>
+ <Attr name="SP/Difficulty" value="2"/>
+ <Attr name="SavedProfile" value="1"/>
+ <Attr name="Subtitles" value="1"/>
+</Attributes>
