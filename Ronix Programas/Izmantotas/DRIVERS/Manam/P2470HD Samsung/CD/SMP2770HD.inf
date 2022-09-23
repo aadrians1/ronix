@@ -1,0 +1,120 @@
+
+;==================================================
+; SMP2770HD.inf 08/25/2009 ver. 3.0HC
+;
+; Copyright 2008 Samsung Electronics Corporation
+;
+; This is a Setup information file for Samsung Monitor. 
+;==================================================
+
+[Version]
+signature="$CHICAGO$"
+Class=Monitor
+ClassGuid={4D36E96E-E325-11CE-BFC1-08002BE10318}
+Provider=%Samsung%
+CatalogFile=SMP2770HD.cat
+DriverVer=08/25/2009,3.0
+
+;--------------------------------------------------
+
+[ControlFlags]
+ExcludeFromSelect.nt=Monitor\SAM05EB
+ExcludeFromSelect.nt=Monitor\SAM05EC
+
+[ClassInstall32]
+AddReg=ClassAddReg32
+
+[ClassAddReg32]
+HKR,,,,%MonitorClassName%
+HKR,,Icon,,"-1"
+HKR,,NoInstallClass,,1
+
+[DestinationDirs]
+DefaultDestDir = 11
+SMP2770HDa.CopyFiles = 23
+SMP2770HDd.CopyFiles = 23
+
+[SourceDisksNames]
+1=%DISK%,,,
+
+[SourceDisksFiles]
+SMP2770HD.icm=1
+
+[Manufacturer]
+%Samsung%=Samsung,NTx86,NTAMD64
+
+; Manufacturer sections
+;-----------------------------------------------------
+[Samsung]
+%SMP2770HDa%=SMP2770HDa.Install, Monitor\SAM05EB
+%SMP2770HDd%=SMP2770HDd.Install, Monitor\SAM05EC
+
+; Manufacturer sections
+;-----------------------------------------------------
+[Samsung.NTx86]
+%SMP2770HDa%=SMP2770HDa.Install, Monitor\SAM05EB
+%SMP2770HDd%=SMP2770HDd.Install, Monitor\SAM05EC
+
+; Manufacturer sections
+;-----------------------------------------------------
+[Samsung.NTAMD64]
+%SMP2770HDa%=SMP2770HDa.Install, Monitor\SAM05EB
+%SMP2770HDd%=SMP2770HDd.Install, Monitor\SAM05EC
+
+; Install Sections
+;-----------------------------------------------------
+
+[SMP2770HDa.Install]
+DelReg=DEL_CURRENT_REG
+AddReg=SMP2770HDa.AddReg, 1920, DPMS
+CopyFiles=SMP2770HDa.CopyFiles
+
+[SMP2770HDd.Install]
+DelReg=DEL_CURRENT_REG
+AddReg=SMP2770HDd.AddReg, 1920, DPMS
+CopyFiles=SMP2770HDd.CopyFiles
+
+; Addreg & DelReg sections
+;-----------------------------------------------------
+
+[DEL_CURRENT_REG]
+HKR,MODES
+HKR,,MaxResolution
+HKR,,DPMS
+HKR,,ICMProfile
+
+
+[1920]
+HKR,,MaxResolution,,"1920,1080"
+
+
+[DPMS]
+HKR,,DPMS,,1
+
+; AddReg sections
+;-----------------------------------------------------
+
+
+[SMP2770HDa.AddReg]
+HKR,"MODES\1920,1080",Mode1,,"30-81,56-75,+,+"
+HKR,,ICMProfile,0,"SMP2770HD.icm"
+
+[SMP2770HDd.AddReg]
+HKR,"MODES\1920,1080",Mode1,,"30-81,56-75,+,+"
+HKR,,ICMProfile,0,"SMP2770HD.icm"
+;------------------------------------------------------
+
+[SMP2770HDa.CopyFiles]
+SMP2770HD.icm
+
+[SMP2770HDd.CopyFiles]
+SMP2770HD.icm
+
+;------------------------------------------------------
+
+[Strings]
+DISK="Samsung Monitor Installation Disk"
+MonitorClassName="Monitor"
+Samsung="Samsung"
+SMP2770HDa="SyncMaster P2770HD(Analog)"
+SMP2770HDd="SyncMaster P2770HD(Digital)"
