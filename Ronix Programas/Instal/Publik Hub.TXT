@@ -1,0 +1,70 @@
+http://www.tk.lv/index.php?l=ru&page=dcplus  adrese kur var noladet DC++ 0.674 jaunoversiju
+un taas pils pielietojuma apraksts
+
+
+
+
+Public HUB list URL:
+http://dc.netforce.lv/hublist1345.config
+
+http://dc.netforce.lv/hublist080605.config  O.K.
+
+
+AHub|ahub.valsts.lv|20 GB; 2 slots;|||||
+Alfa|alfa.hub.lv:3412|25 GB; 3 slots; 10 hubs max; http://www.hub.lv|||||tikkai/
+Bat-yam|bat-yam.dchub.info|Game;Films;Soft,NO PORNO|||||
+CS-Team|cs-team.no-ip.info|500 MB; 2 slots; 8 hubs max|||||
+Darkness|DARKhub.no-ip.info|15Gb; 2 slot|||||
+dchub.hacker.lv|hub.hacker.lv:4012|||||
+Delfi Dc Hub|water.live.lv:2412|50 GB; 3 slots; 10 hubs max; http://delfihub.viva.lv/|||||
+Delphi VCL Community|sven.mine.nu|500 MB; 2 slots; 10 hubs max|||||
+Digital City|digitalcityhub.no-ip.com|1 GB, 2 slots|||||
+Fiesta|fiesta.no-ip.com| 500 MB; http://www.fiesta.valsts.lv|||||
+Free DC Hub|hat.servegame.com|1 GB; No rules|||||
+GAMMA|195.2.101.120:3415|7 GB; 2 slots; 10 hubs max||||| 
+GARFILD|garfild.valsts.lv|1 GB; 2 slots; http://hub.good.lv|||||
+GOLF|golfhubs.no-ip.com|2 GB; ||||| 
+GOOD.LV|hub.good.lv:1199|3 GB; 2 slots; 10 hubs max||||| 
+HipHop Underground|sheatfish.sytes.net|5 GB; 2 slots; 7 hubs max|||||
+Hub ALHS|alhs.no-ip.com|500 mB|||||
+Hubs|hubs.valsts.lv|1 GB, 2 slots|||||
+IECAVA|iecavahub.no-ip.com|40 GB; 2 slots|||||
+Ilvanet|hub.ilva.lv|2 GB; 3 slots; 5 hubs max |||||
+Imanta|imanta.no-ip.com|1 GB; 3 slots; 10 hubs max|||||
+Kaktuss[Lv] Hub|dchub.kaktuss.lv|1 GB; 2 slots; 10 hubs max|||||
+Kalts|kalts.no-ip.com:888|2 GB; 2 slots|||||
+Lepjunet|lepjunet.valsts.lv|1 GB; 3 slots; 10 hubs max|||||
+M A T R I X|matrixhub.no-ip.com|10 GB; 2 slots|||||
+MMR|mmr.sytes.net|1 GB|||||
+Moscow City|hub4.dchub.info|3 GB; 3 slots; 15 hubs max|||||
+MuzXab|muz.mine.nu|1 GB; 1 slot; max users 350|||||
+NeW RuSSiA|russian-connect.no-ip.org|10 GB; 3 slots;|||||
+Ogreland|dc.ogreland.lv| http://ogreland.lv|||||
+Omega|omega.hub.lv:5412|5 GB, 2 slots; 10 hubs max; Homepage http://www.hub.lv|||||
+Panda|panda.valsts.lv| 3 Gb|||||
+PIT|hub.pit.lv|1 GB; www.pit.lv||||
+PIVOHUB|pivohub.valsts.lv|3 GB, 3 slots; 10 hubs max||||||
+PURVCIEMS|purvciems.no-ip.com:3333|1 GB; 2 slots; |||||
+Real_MOCKBA_CITY|kinoforme2.no-ip.info|3 GB, 3 slots; 15 hubs max||||||
+RIGA HUB|rigahub.no-ip.com|3 GB, 3 slots; 10 hubs max||||||
+Rezekne|rezekne.valsts.lv|5 GB; 2 slots;|||||
+Russia-Israel|russia-israel.no-ip.info|1 GB, 1 slots; 15 hubs max||||||
+Russian Mp3|offline.sytes.net|5 GB; 2 slots; |||||
+SIA "Maksinets"|hub.maksinets.lv:1412| 00-24|||||
+SIGNEST|62.85.16.80:4112|2 slots; |||||
+SkaTViS HuB|80.233.254.22| 3 GB, work:(15:00 - 8:00), Contents: movies/new ISO games, best speed: (0:00 - 8:00)|||||
+Spils HUB|hub.spils.lv|2 GB; http://hub.spils.lv||||||
+SvNets DC HUB|dole.valsts.lv|1 GB; 2 slots;|||||
+Unlimited Opportunities|hub.uo.lv|10 GB; 2 slots; 3 hubs max; http://www.uo.lv|||||
+USA HUB|rushub.no-ip.info|3 GB; 2 slots;|||||
+Vovik Hub|vovikp.no-ip.org|3 GB, 3 slots; 15 hubs max; http://vovikp.h1.ru||||||
+XericsX|217.199.105.217|3 GB; 2 slots;|||||
+
+Unlimited Opportunities (hub.uo.lv)
+hub.uo.lv
+HUB.SPILS.LV (62.85.16.11)
+62.85.16.11
+(-)Hub.hacker.lv
+dcHub.hacker.lv:4012
+
+
